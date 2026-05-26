@@ -45,7 +45,39 @@ const config = {
           type: 'docSidebar',
           sidebarId: 'mainSidebar',
           position: 'left',
-          label: 'Docs'
+          label: 'Series'
+        },
+        {
+          to: '/',
+          label: 'Index',
+          position: 'left'
+        },
+        {
+          to: '/agentic-enterprise/agentic-transformation',
+          label: 'Start Here',
+          position: 'left'
+        },
+        {
+          label: 'Explore',
+          position: 'left',
+          items: [
+            {
+              to: '/agentic-enterprise/identity-access-control',
+              label: 'Architecture and Governance'
+            },
+            {
+              to: '/agentic-enterprise/human-ai-teaming',
+              label: 'Operating Model'
+            },
+            {
+              to: '/agentic-enterprise/roadmap-90-days',
+              label: 'Roadmap'
+            },
+            {
+              to: '/agentic-enterprise/agentic-enterprise-from-zero-playbook',
+              label: 'Playbook'
+            }
+          ]
         },
         {
           href: 'https://github.com/ariefwara/ai-for-business',
