@@ -3,3 +3,7 @@ build/
 .docusaurus/
 .env
 npm-debug.log*
+downloads/
+output/
+.article-sessions/
+docs/**/_prompts/
