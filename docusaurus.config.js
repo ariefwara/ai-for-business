@@ -90,6 +90,10 @@ const config = {
       style: 'dark',
       copyright: `Copyright © ${new Date().getFullYear()} AI for Business`
     },
+    tableOfContents: {
+      minHeadingLevel: 2,
+      maxHeadingLevel: 2
+    },
     prism: {
       additionalLanguages: ['bash', 'json']
     }
