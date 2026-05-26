@@ -9,7 +9,8 @@
     "clear": "docusaurus clear",
     "article:list": "node scripts/generate-agentic-article-databricks.mjs --list",
     "article:session": "node scripts/generate-agentic-article-databricks.mjs --init-session",
-    "article:generate": "node scripts/generate-agentic-article-databricks.mjs"
+    "article:generate": "node scripts/generate-agentic-article-databricks.mjs",
+    "article:rewrite:deepseek": "node scripts/rewrite-articles-with-deepseek.mjs"
   },
   "dependencies": {
     "@docusaurus/core": "3.10.1",
