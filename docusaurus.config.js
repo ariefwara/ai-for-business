@@ -27,7 +27,9 @@ const config = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          routeBasePath: '/'
+          routeBasePath: '/',
+          showLastUpdateAuthor: false,
+          showLastUpdateTime: false
         },
         blog: false,
         theme: {
@@ -89,10 +91,6 @@ const config = {
     footer: {
       style: 'dark',
       copyright: `Copyright © ${new Date().getFullYear()} AI for Business`
-    },
-    tableOfContents: {
-      minHeadingLevel: 2,
-      maxHeadingLevel: 2
     },
     prism: {
       additionalLanguages: ['bash', 'json']

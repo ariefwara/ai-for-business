@@ -40,6 +40,12 @@
   max-width: 880px;
 }
 
+.theme-doc-toc-desktop,
+.tocCollapsible_ETCw,
+.theme-doc-toc-mobile {
+  display: none;
+}
+
 .markdown table {
   display: table;
   width: 100%;
