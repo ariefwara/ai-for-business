@@ -70,7 +70,7 @@ Bagian ini masuk ke desain platform dan kontrol runtime. Fokusnya adalah bagaima
 
 ## 3. Operating Model
 
-Bagian ini membahas perubahan cara kerja perusahaan: peran manusia, shared services, GCC, fungsi bisnis, metrik, roadmap, vendor model, change management, governance board, legal accountability, dan anti-patterns.
+Bagian ini membahas perubahan cara kerja perusahaan: peran manusia, shared services, GCC, fungsi bisnis, metrik, dan roadmap.
 
 ### Human-Agent Organization
 
@@ -92,13 +92,3 @@ Bagian ini membahas perubahan cara kerja perusahaan: peran manusia, shared servi
 31. [Outcome-Based Operating Model](./agentic-enterprise/outcome-based-operating-model)
 32. [Roadmap 90 Hari Membangun Agentic Enterprise Pilot](./agentic-enterprise/roadmap-90-days)
 33. [Roadmap 12 Bulan Menuju Agentic Operating Model](./agentic-enterprise/roadmap-12-months)
-
-### Scale and Leadership
-
-34. [Agent Factory: Cara Menskalakan AI Agents Tanpa Agent Sprawl](./agentic-enterprise/agent-factory)
-35. [Vendor dan Service Provider Model untuk Agentic Enterprise](./agentic-enterprise/vendor-service-provider-model)
-36. [Change Management untuk Agentic Transformation](./agentic-enterprise/change-management-agentic-transformation)
-37. [Executive Governance Board untuk Agentic AI](./agentic-enterprise/executive-governance-board-agentic-ai)
-38. [Legal, Ethics, dan Accountability dalam Agentic Enterprise](./agentic-enterprise/legal-ethics-accountability-agentic-enterprise)
-39. [Anti-Patterns Agentic AI di Perusahaan](./agentic-enterprise/agentic-ai-anti-patterns)
-40. [Playbook Memulai Agentic Enterprise dari Nol](./agentic-enterprise/agentic-enterprise-from-zero-playbook)

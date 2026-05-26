@@ -119,20 +119,6 @@ const sidebars = {
             'agentic-enterprise/roadmap-90-days',
             'agentic-enterprise/roadmap-12-months'
           ]
-        },
-        {
-          type: 'category',
-          label: 'Scale and Leadership',
-          collapsed: false,
-          items: [
-            'agentic-enterprise/agent-factory',
-            'agentic-enterprise/vendor-service-provider-model',
-            'agentic-enterprise/change-management-agentic-transformation',
-            'agentic-enterprise/executive-governance-board-agentic-ai',
-            'agentic-enterprise/legal-ethics-accountability-agentic-enterprise',
-            'agentic-enterprise/agentic-ai-anti-patterns',
-            'agentic-enterprise/agentic-enterprise-from-zero-playbook'
-          ]
         }
       ]
     }
