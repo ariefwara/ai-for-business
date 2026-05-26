@@ -5,13 +5,11 @@ sidebar_position: 38
 
 # Legal, Ethics, dan Accountability dalam Agentic Enterprise
 
-Bayangkan tim finance Anda mulai menggunakan agent untuk membantu proses tutup buku. Agent ini bisa mengumpulkan angka dari ERP, menyusun draft komentar, dan menyiapkan ringkasan untuk controller. Semua berjalan lancar di pilot. Kemudian suatu hari, agent mengambil angka dari sumber yang salah, dan laporan yang dikirim ke eksternal mengandung kesalahan material. Siapa yang bertanggung jawab? Apakah jawabannya “agent-nya yang salah”?
+Tim finance Anda mulai menggunakan agent untuk membantu proses tutup buku. Agent ini bisa mengumpulkan angka dari ERP, menyusun draft komentar, dan menyiapkan ringkasan untuk controller. Semua berjalan lancar di pilot. Kemudian suatu hari, agent mengambil angka dari sumber yang salah, dan laporan yang dikirim ke eksternal mengandung kesalahan material. Siapa yang bertanggung jawab? Apakah jawabannya “agent-nya yang salah”?
 
 Atau pertimbangkan skenario lain: tim customer operations ingin agent membantu merespons keluhan pelanggan. Agent bisa menjawab pertanyaan standar, memberikan refund terbatas, dan merutekan kasus kompleks ke manusia. Tapi suatu ketika, agent berjanji memberikan kompensasi yang tidak sesuai kebijakan kepada pelanggan. Pelanggan marah dan menuntut. Lagi-lagi, siapa yang bertanggung jawab?
 
 Pertanyaan-pertanyaan ini bukan hipotetis. Semakin banyak perusahaan yang mulai memberikan otonomi terbatas kepada agent—membaca data dari berbagai sistem, memanggil tool, menjalankan langkah workflow, dan dalam beberapa kasus mengambil tindakan atas nama organisasi—semakin mendesak kebutuhan untuk menjawabnya. Bukan nanti setelah insiden terjadi, tetapi sejak awal, sebelum agent masuk produksi.
-
-Artikel ini membahas bagaimana membangun legal readiness, ethical discipline, dan accountability by design ketika agent mulai menjadi bagian dari keputusan bisnis. Poin utamanya tegas: agent dapat menjalankan aksi, tetapi tidak pernah memegang akuntabilitas hukum atau reputasi. Akuntabilitas tetap berada pada organisasi, pemilik proses, dan struktur pengendalian yang mengizinkan agent beroperasi.
 
 ## Akuntabilitas Tidak Bisa Didelegasikan ke Agent
 
@@ -27,13 +25,9 @@ Kedua, reputasi perusahaan tidak bisa didelegasikan ke mesin. Pelanggan tidak ak
 
 Ketiga, tanpa akuntabilitas yang jelas, perbaikan tidak akan terjadi. Jika semua kegagalan diberi label “AI error”, organisasi akan gagal membedakan apakah masalahnya ada pada data input, policy yang buruk, desain workflow, integrasi tool, model behavior, atau pengawasan manusia yang lemah. Padahal tindakan korektif untuk masing-masing penyebab sangat berbeda.
 
-### Accountability by design, bukan setelah insiden
-
 Karena itu, perusahaan perlu menerapkan accountability by design. Artinya, sebelum agent masuk produksi, organisasi sudah menetapkan dengan jelas siapa yang bertanggung jawab atas apa. Business owner bertanggung jawab atas outcome proses. Agent owner bertanggung jawab atas desain, perubahan, dan performa agent. Risk atau legal owner menilai implikasi hukum, etika, dan kontrol. Human approver wajib menyetujui tindakan tertentu. Dan escalation path menentukan ke mana kasus ambigu, sensitif, atau berisiko harus diarahkan.
 
 Contoh praktisnya: dalam finance close, agent boleh mengumpulkan evidence dan menyiapkan draft commentary, tetapi controller tetap bertanggung jawab atas keputusan akuntansi dan sign-off. Dalam procurement, agent boleh mengklasifikasikan intake dan memeriksa policy dasar, tetapi pemilik proses procurement tetap bertanggung jawab jika request salah diarahkan dan menimbulkan pelanggaran. Dalam customer operations, agent boleh menyusun respons atau menyelesaikan kasus standar, tetapi organisasi tetap bertanggung jawab atas fairness, disclosure, dan kualitas keputusan yang diterima pelanggan. Dalam HR atau hiring, agent mungkin membantu screening atau summarization, tetapi keputusan yang memengaruhi kandidat atau karyawan memerlukan pengawasan yang jauh lebih ketat dan sering kali tidak cocok untuk otonomi tinggi.
-
-### Kapan bounded autonomy tidak tepat
 
 Tidak semua keputusan cocok untuk agentic execution. Pola ini tidak tepat jika keputusan berdampak tinggi pada hak individu, dasar kebijakannya ambigu, organisasi tidak bisa menjelaskan alasan keputusan, atau tidak ada mekanisme override dan appeal yang jelas. Dalam area seperti hiring, credit, pricing individual, claims, disciplinary action, atau keputusan yang menyentuh hak karyawan, perusahaan harus jauh lebih konservatif. Di sini, agent lebih aman diposisikan sebagai alat bantu evidence gathering, summarization, atau recommendation support—bukan pengambil keputusan final.
 
