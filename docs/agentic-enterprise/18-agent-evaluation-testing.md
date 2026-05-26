@@ -13,9 +13,7 @@ Pertanyaan yang muncul kemudian adalah: bagaimana perusahaan membuktikan bahwa a
 
 ## Mengapa Testing Tradisional Tidak Cukup
 
-Testing tradisional berasumsi bahwa sistem relatif deterministik: input yang sama menghasilkan output yang sama, dan logika bisnis dapat diverifikasi lewat unit test, integration test, lalu UAT. Pada agentic systems, asumsi ini tidak lagi cukup.
-
-Seorang agent procurement, misalnya, mungkin menerima permintaan pembelian, mengambil policy kategori, memeriksa vendor, lalu membuat draft request. Agent finance close mungkin mengumpulkan evidence, mengklasifikasikan exception, lalu menyiapkan commentary. Agent IT operations mungkin menerima event, menjalankan diagnostik, lalu membuka tiket atau memicu runbook.
+Tim procurement mungkin sedang menguji agent yang menerima permintaan pembelian, mengambil policy kategori, memeriksa vendor, lalu membuat draft request. Tim finance close menguji agent yang mengumpulkan evidence, mengklasifikasikan exception, lalu menyiapkan commentary. Tim IT operations menguji agent yang menerima event, menjalankan diagnostik, lalu membuka tiket atau memicu runbook.
 
 Dalam semua contoh ini, yang perlu diuji bukan hanya kalimat akhir. Yang lebih penting justru konteks apa yang diambil, tool apa yang dipilih, apakah urutan langkahnya tepat, kapan agent berhenti, dan apakah outcome akhirnya sesuai aturan bisnis.
 

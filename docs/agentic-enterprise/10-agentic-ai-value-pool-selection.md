@@ -5,15 +5,15 @@ sidebar_position: 10
 
 # Memilih Value Pool Agentic AI yang Layak Dikejar
 
-Bayangkan Anda berada di posisi seorang kepala fungsi bisnis. Tim Anda sudah mencoba beberapa pilot AI. Ada yang berhasil secara teknis—model menjawab dengan baik, agent bisa memanggil data dari sistem, dan beberapa pengguna awal merasa terbantu. Namun ketika manajemen bertanya, "berapa nilai bisnisnya? seberapa besar? kapan terlihat?" jawabannya masih kabur. Anda tidak sendiri. Banyak perusahaan mengalami hal yang sama.
+Bayangkan Anda adalah kepala fungsi bisnis. Tim Anda sudah menjalankan beberapa pilot AI. Secara teknis, ada yang berhasil—model menjawab dengan baik, agent bisa mengambil data dari sistem, dan beberapa pengguna awal merasa terbantu. Lalu manajemen bertanya, "berapa nilai bisnisnya? seberapa besar? kapan terlihat?" Jawaban yang Anda miliki masih kabur. Anda tidak sendirian. Banyak perusahaan mengalami hal yang persis sama.
 
-Masalahnya bukan pada teknologinya. Pilot bisa terlihat mengesankan di demo, tetapi ketika harus dibawa ke produksi dan dipertanggungjawabkan di depan CFO, COO, CIO, dan tim risk, ceritanya berubah. Pertanyaan yang muncul bukan lagi "bisakah model ini bekerja?" melainkan "apa nilai bisnisnya, seberapa besar, seberapa cepat, dan apakah ini lebih penting dibanding inisiatif lain?"
+Masalahnya bukan pada teknologi. Pilot bisa tampak mengesankan saat demo. Namun ketika harus dibawa ke produksi dan dipertanggungjawabkan di depan CFO, COO, CIO, dan tim risk, ceritanya berubah. Pertanyaan yang muncul bukan lagi "bisakah model ini bekerja?" melainkan "apa nilai bisnisnya, seberapa besar, seberapa cepat, dan apakah ini lebih penting dibanding inisiatif lain?"
 
 Untuk agentic AI, tantangan ini lebih tajam dibandingkan copilot biasa. Agentic AI membutuhkan integrasi ke sistem inti, kontrol akses, policy engine, logging dan audit trail, evaluasi, serta perubahan operating model. Semua itu punya biaya. Jika use case yang dipilih terlalu kecil, terlalu lokal, atau terlalu ambigu, biaya organisasi untuk membangunnya bisa lebih besar daripada nilai yang dihasilkan.
 
 Karena itu, pemilihan use case tidak bisa dimulai dari pertanyaan "model ini bisa dipakai untuk apa?" Pertanyaan yang lebih tepat adalah: pain bisnis mana yang cukup besar untuk dibenahi? workflow mana yang cukup penting untuk didesain ulang? domain mana yang cukup siap untuk dieksekusi agent? dan capability apa yang bisa dipakai ulang di banyak area?
 
-## Masalah yang Sering Terjadi: Pilot Purgatory
+## Pilot Purgatory, Jebakan yang Sering Terjadi
 
 Banyak organisasi terjebak dalam kondisi yang bisa disebut pilot purgatory. Ada banyak eksperimen, ada beberapa demo yang mengesankan, bahkan ada use case yang berhasil secara teknis. Tapi tidak ada yang benar-benar menjadi kapabilitas operasional berskala.
 
@@ -35,7 +35,7 @@ Contohnya bisa dilihat di berbagai fungsi. Di finance close, ada exception rekon
 
 Sebaliknya, workflow yang sangat kecil, tidak kritikal, atau hanya menyentuh produktivitas personal biasanya lebih cocok untuk pendekatan copilot, bukan agentic transformation.
 
-## Dimensi Pertama: Value yang Benar-Benar Ingin Dikejar
+## Value yang Benar-Benar Ingin Dikejar
 
 Setelah area pain teridentifikasi, langkah berikutnya adalah mendefinisikan jenis nilai yang ingin ditangkap. Ini terdengar sederhana, tetapi banyak business case AI gagal karena semua nilai dicampur menjadi narasi umum tentang efisiensi atau produktivitas. Padahal, value pool agentic AI biasanya datang dari beberapa kategori yang berbeda.
 
@@ -55,7 +55,7 @@ Apa pun jenis nilainya, setiap value pool harus punya baseline. Tanpa baseline, 
 
 Contoh di finance close: jangan mulai dari klaim "agent akan mempercepat close". Mulailah dari baseline seperti langkah mana yang paling banyak menimbulkan keterlambatan, exception apa yang paling sering berulang, berapa lama waktu yang habis untuk evidence gathering, dan berapa banyak effort senior staff tersedot ke koordinasi. Contoh di customer operations: jangan hanya berkata "agent akan meningkatkan CX". Ukur dulu average handling time, first-contact resolution, jumlah eskalasi, dan jenis kasus yang paling sering macet. Tanpa baseline, organisasi akan sulit membedakan nilai nyata dari antusiasme awal pengguna.
 
-## Dimensi Kedua: Feasibility yang Realistis
+## Feasibility yang Realistis
 
 Value tinggi saja tidak cukup. Banyak workflow bernilai besar justru belum siap untuk agentic execution. Karena itu, dimensi kedua adalah feasibility.
 
@@ -75,7 +75,7 @@ Agar diskusi tidak terlalu subjektif, perusahaan bisa memakai scoring sederhana 
 
 Skor ini bukan rumus otomatis. Fungsinya adalah memaksa percakapan lintas bisnis, teknologi, dan risk menjadi lebih konkret.
 
-## Dimensi Ketiga: Reusability, Pembeda antara Use Case dan Platform Asset
+## Reusability, Pembeda antara Use Case dan Platform Asset
 
 Salah satu kesalahan paling mahal adalah memilih use case yang hanya menyelesaikan satu masalah sempit tanpa membangun capability yang bisa dipakai ulang. Dalam agentic enterprise, use case terbaik biasanya melakukan dua hal sekaligus: menyelesaikan pain bisnis yang nyata, dan membangun reusable capability untuk domain lain.
 
@@ -103,7 +103,7 @@ Ada dua pola ekstrem yang sering muncul. Terlalu banyak quick wins membuat organ
 
 Portofolio yang sehat biasanya membutuhkan kombinasi beberapa quick wins untuk momentum, satu atau dua strategic bets untuk arah transformasi, investasi platform yang disengaja, dan risk-control yang dibangun sejak awal.
 
-## Template Portfolio Board untuk Executive Review
+## Portfolio Board untuk Executive Review
 
 Agar keputusan tidak tersebar per fungsi, perusahaan sebaiknya memiliki portfolio board untuk meninjau kandidat value pool secara berkala. Bukan komite yang hanya membahas teknologi, tetapi forum lintas bisnis, teknologi, risk, dan operasi.
 
