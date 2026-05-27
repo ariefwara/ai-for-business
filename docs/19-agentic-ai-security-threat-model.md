@@ -1,8 +1,8 @@
 ---
 title: "Security Threat Model untuk Agentic AI"
 sidebar_position: 19
-image: "/img/diagrams/19-agentic-ai-security-threat-model.png"
 description: "Bayangkan tim procurement baru saja meluncurkan agent yang bisa membaca intake request, mengambil policy pengadaan, memeriksa data vendor, lalu membuat draft..."
+image: "/img/social/19-agentic-ai-security-threat-model.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

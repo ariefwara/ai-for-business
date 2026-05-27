@@ -1,8 +1,8 @@
 ---
 title: "共有サービスをエージェンティックサービスへと変革する"
 sidebar_position: 24
-image: "/img/diagrams/24-agentic-shared-services.png"
 description: "皆さんの会社の経理業務チームが、毎日何十件もの請求書例外処理に追われている様子を想像してみてください。一件ごとに内容を開き、読み込み、発注書や入庫伝票と照合し、..."
+image: "/img/social/24-agentic-shared-services.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

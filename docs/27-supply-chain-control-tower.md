@@ -1,8 +1,8 @@
 ---
 title: "Supply Chain Control Tower dengan AI Agents"
 sidebar_position: 27
-image: "/img/diagrams/27-supply-chain-control-tower.png"
 description: "Banyak perusahaan sudah lama berinvestasi di supply chain. Dashboard dibangun, control tower diluncurkan, alert dipasang, dan data dari ERP, WMS, TMS, serta..."
+image: "/img/social/27-supply-chain-control-tower.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

@@ -1,8 +1,8 @@
 ---
 title: "Identity and Access Control for AI Agents"
 sidebar_position: 13
-image: "/img/diagrams/13-identity-access-control.png"
 description: "Imagine your finance team is preparing an agent to assist with the monthly book close process. This agent can read open journals, check reconciliations, and draft..."
+image: "/img/social/13-identity-access-control.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

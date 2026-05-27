@@ -1,8 +1,8 @@
 ---
 title: "GCC 4.0: مركز القدرات العالمي القائم على وكلاء الذكاء الاصطناعي"
 sidebar_position: 25
-image: "/img/diagrams/25-gcc-4-ai-agents.png"
 description: "تخيل أنك تقود مركزًا عالميًا للقدرات (GCC). لسنوات، كان فريقك العمود الفقري لتركيز العمل، وخفض التكاليف، والحفاظ على معايير التسليم. ارتفعت مهامه تدريجيًا: من مجرد..."
+image: "/img/social/25-gcc-4-ai-agents.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

@@ -1,8 +1,8 @@
 ---
 title: "Tool Calling, API, und Enterprise Integration"
 sidebar_position: 5
-image: "/img/diagrams/05-tool-calling-api-integration.png"
 description: "Stell der vor, dini Finance-Abteilig fingt grad a, AI z'bruuche für de monatlech Büecher-Abschluss. De Copilot, wo jetzt scho da isch, cha scho ganz guet erkläre,..."
+image: "/img/social/05-tool-calling-api-integration.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

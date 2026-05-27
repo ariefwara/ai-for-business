@@ -1,8 +1,8 @@
 ---
 title: "AIソフトウェアエージェントによるITデリバリーモデル"
 sidebar_position: 28
-image: "/img/diagrams/28-it-delivery-model.png"
 description: "多くのテクノロジーチームは、AIへの取り組みを最も手軽な領域、すなわちコーディングアシスタントから始めます。開発者はAIを利用してボイラープレートコードを作成し..."
+image: "/img/social/28-it-delivery-model.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

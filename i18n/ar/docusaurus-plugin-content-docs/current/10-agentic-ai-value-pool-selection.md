@@ -1,8 +1,8 @@
 ---
 title: "اختيار مجمع القيمة للذكاء الاصطناعي العاملي الجدير بالمتابعة"
 sidebar_position: 10
-image: "/img/diagrams/10-agentic-ai-value-pool-selection.png"
 description: "تخيل أنك رئيس وظيفة أعمال. لقد نفذ فريقك بالفعل العديد من النماذج الأولية للذكاء الاصطناعي. من الناحية الفنية، نجح بعضها - النموذج يجيب بشكل جيد، ويمكن للوكيل سحب..."
+image: "/img/social/10-agentic-ai-value-pool-selection.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

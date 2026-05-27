@@ -1,8 +1,8 @@
 ---
 title: "Supply Chain Control Tower mit AI Agents"
 sidebar_position: 27
-image: "/img/diagrams/27-supply-chain-control-tower.png"
 description: "Vilii Firmene händ scho lang i d Supply Chain investiert. Dashboards sind bout worde, Control Towers sind lanciert worde, Alerts sind installiert worde, und Daten..."
+image: "/img/social/27-supply-chain-control-tower.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

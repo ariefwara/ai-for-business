@@ -1,8 +1,8 @@
 ---
 title: "GCC 4.0: AI Agent-Powered Global Capability Center"
 sidebar_position: 25
-image: "/img/diagrams/25-gcc-4-ai-agents.png"
 description: "Imagine you are leading a Global Capability Center. For years, your team has been the backbone for centralizing work, reducing costs, and maintaining delivery..."
+image: "/img/social/25-gcc-4-ai-agents.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

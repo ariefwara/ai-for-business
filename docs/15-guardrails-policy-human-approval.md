@@ -1,8 +1,8 @@
 ---
 title: "Guardrails, Policy Engine, dan Human Approval Workflow"
 sidebar_position: 15
-image: "/img/diagrams/15-guardrails-policy-human-approval.png"
 description: "Bayangkan tim finance Anda sudah mulai memakai agent untuk membantu proses closing bulanan. Agent bisa mengidentifikasi exception, mengumpulkan bukti dari berbagai..."
+image: "/img/social/15-guardrails-policy-human-approval.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

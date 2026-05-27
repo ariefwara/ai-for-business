@@ -1,8 +1,8 @@
 ---
 title: "90-Day Roadmap for Building an Agentic Enterprise Pilot"
 sidebar_position: 32
-image: "/img/diagrams/32-roadmap-90-days.png"
 description: "Many companies have moved past the initial phase of AI curiosity. Tools have been tried, copilots have been used, and several proofs of concept have been presented...."
+image: "/img/social/32-roadmap-90-days.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

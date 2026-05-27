@@ -1,8 +1,8 @@
 ---
 title: "بناء، شراء، شراكة، أو استعارة: استراتيجية توريد وكلاء الذكاء الاصطناعي"
 sidebar_position: 11
-image: "/img/diagrams/11-build-buy-partner-borrow-agents.png"
 description: "تخيل أنك في موقع رئيس تقنية أو رئيس وظيفة أعمال. بدأ فريقك بالفعل في رؤية إمكانات agentic AI. ربما هناك نموذج تجريبي لروبوت محادثة في خدمة العملاء واعد بما يكفي، أو..."
+image: "/img/social/11-build-buy-partner-borrow-agents.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

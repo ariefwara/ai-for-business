@@ -1,8 +1,8 @@
 ---
 title: "What Is Agentic Enterprise Architecture"
 sidebar_position: 2
-image: "/img/diagrams/02-agentic-enterprise-architecture.png"
 description: "Imagine your finance team is going through the monthly close process. Data is scattered across the ERP, spreadsheets sent via email, and manual records from shared..."
+image: "/img/social/02-agentic-enterprise-architecture.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

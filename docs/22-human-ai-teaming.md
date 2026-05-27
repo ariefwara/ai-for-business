@@ -1,8 +1,8 @@
 ---
 title: "Human-AI Teaming di Perusahaan"
 sidebar_position: 22
-image: "/img/diagrams/22-human-ai-teaming.png"
 description: "Banyak perusahaan memulai perjalanan AI dengan cara yang serupa. Seorang analis keuangan meminta ringkasan variance dari chatbot. Seorang buyer meminta draft email..."
+image: "/img/social/22-human-ai-teaming.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

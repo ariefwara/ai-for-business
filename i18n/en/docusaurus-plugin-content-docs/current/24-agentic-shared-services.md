@@ -1,8 +1,8 @@
 ---
 title: "Transforming Shared Services into Agentic Services"
 sidebar_position: 24
-image: "/img/diagrams/24-agentic-shared-services.png"
 description: "Imagine your finance operations team receiving dozens of invoice exceptions every day. Each case must be opened, read, matched against purchase orders and goods..."
+image: "/img/social/24-agentic-shared-services.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

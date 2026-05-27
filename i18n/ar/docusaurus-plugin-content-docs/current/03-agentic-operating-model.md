@@ -1,8 +1,8 @@
 ---
 title: "ما هو نموذج التشغيل الوكيل (Agentic Operating Model)"
 sidebar_position: 3
-image: "/img/diagrams/03-agentic-operating-model.png"
 description: "تخيل فريقًا ماليًا بدأ في استخدام وكيل (agent) للمساعدة في عملية إغلاق الدفاتر الشهرية. يمكن للوكيل سحب البيانات من نظام ERP، ومطابقة الفواتير، وإعداد مسودات القيود..."
+image: "/img/social/03-agentic-operating-model.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

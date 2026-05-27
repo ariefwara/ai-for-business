@@ -1,8 +1,8 @@
 ---
 title: "Apa Itu Agentic Enterprise Architecture"
 sidebar_position: 2
-image: "/img/diagrams/02-agentic-enterprise-architecture.png"
 description: "Bayangkan tim finance Anda sedang menjalani proses tutup buku bulanan. Data tersebar di ERP, spreadsheet yang dikirim lewat email, dan catatan manual dari shared..."
+image: "/img/social/02-agentic-enterprise-architecture.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

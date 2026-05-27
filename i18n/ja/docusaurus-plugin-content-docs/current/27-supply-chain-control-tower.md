@@ -1,8 +1,8 @@
 ---
 title: "AIエージェントによるサプライチェーン・コントロールタワー"
 sidebar_position: 27
-image: "/img/diagrams/27-supply-chain-control-tower.png"
 description: "多くの企業が長年にわたりサプライチェーンに投資してきました。ダッシュボードを構築し、コントロールタワーを立ち上げ、アラートを設定し、ERP、WMS、TMS、そし..."
+image: "/img/social/27-supply-chain-control-tower.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

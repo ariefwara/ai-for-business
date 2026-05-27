@@ -16,6 +16,30 @@ const config = {
     }
   },
 
+  headTags: [
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:image:width',
+        content: '1200'
+      }
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:image:height',
+        content: '630'
+      }
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:image:type',
+        content: 'image/jpeg'
+      }
+    }
+  ],
+
   i18n: {
     defaultLocale: 'id',
     locales: ['id', 'en', 'gsw', 'ar', 'ja'],

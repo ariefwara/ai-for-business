@@ -1,8 +1,8 @@
 ---
 title: "Apa Itu Agentic Operating Model"
 sidebar_position: 3
-image: "/img/diagrams/03-agentic-operating-model.png"
 description: "Bayangkan sebuah tim finance yang mulai menggunakan agent untuk membantu proses penutupan buku bulanan. Agent bisa mengambil data dari ERP, mencocokkan invoice,..."
+image: "/img/social/03-agentic-operating-model.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

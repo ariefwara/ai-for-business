@@ -16,7 +16,8 @@
     "diagram:images:fal": "node scripts/generate-nano-banana-images-with-fal.mjs",
     "translate:docs:deepseek": "node scripts/translate-docs-with-deepseek.mjs",
     "seo:docs:deepseek": "node scripts/optimize-doc-seo-with-deepseek.mjs",
-    "preview:links": "node scripts/prepare-link-previews.mjs"
+    "preview:links": "node scripts/prepare-link-previews.mjs",
+    "preview:images": "node scripts/generate-social-preview-images.mjs"
   },
   "dependencies": {
     "@docusaurus/core": "3.10.1",

@@ -1,8 +1,8 @@
 ---
 title: "Agentic Enterprise: Dari Digital Transformation ke Agentic Transformation"
 sidebar_position: 1
-image: "/img/diagrams/01-agentic-transformation.png"
 description: "Banyak perusahaan saat ini merasa sudah cukup maju dalam transformasi digital. Proses-proses utama sudah berjalan di atas ERP, approval dilakukan lewat workflow..."
+image: "/img/social/01-agentic-transformation.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

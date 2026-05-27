@@ -1,8 +1,8 @@
 ---
 title: "New Roles in the Agentic Enterprise"
 sidebar_position: 23
-image: "/img/diagrams/23-new-roles.png"
 description: "Imagine a finance team starting to use an agent to help with the monthly close process. The agent can pull data from the ERP, draft commentary, and flag exceptions...."
+image: "/img/social/23-new-roles.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

@@ -1,8 +1,8 @@
 ---
 title: "Identity dan Access Control untuk AI Agents"
 sidebar_position: 13
-image: "/img/diagrams/13-identity-access-control.png"
 description: "Bayangkan tim finance Anda sedang menyiapkan agent untuk membantu proses tutup buku bulanan. Agent ini bisa membaca jurnal terbuka, memeriksa rekonsiliasi, dan..."
+image: "/img/social/13-identity-access-control.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

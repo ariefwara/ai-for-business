@@ -1,8 +1,8 @@
 ---
 title: "Workforce Reskilling for the Agentic Enterprise"
 sidebar_position: 29
-image: "/img/diagrams/29-workforce-reskilling.png"
 description: "Imagine your finance team has just launched an agent to help with the monthly close process. The agent can pull data from the ERP, draft variance commentary, and..."
+image: "/img/social/29-workforce-reskilling.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

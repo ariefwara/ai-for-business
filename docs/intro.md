@@ -3,8 +3,8 @@ id: intro
 title: Agentic Enterprise
 slug: /
 sidebar_position: 1
-image: "/img/diagrams/01-agentic-transformation.png"
 description: "Seri ini membahas bagaimana perusahaan bergerak dari AI tools dan copilot menuju agentic enterprise: operating model di mana AI agents dapat memahami konteks,..."
+image: "/img/social/01-agentic-transformation.jpg"
 ---
 
 # Agentic Enterprise

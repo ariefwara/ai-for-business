@@ -1,8 +1,8 @@
 ---
 title: "Agentic AI FinOps: Mengelola Cost, Latency, dan Capacity"
 sidebar_position: 21
-image: "/img/diagrams/21-agentic-ai-finops.png"
 description: "Seorang manajer shared services melihat pilot agent untuk AP exception handling berjalan mulus. Biaya per transaksi di dashboard terlihat kecil, latency masih..."
+image: "/img/social/21-agentic-ai-finops.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

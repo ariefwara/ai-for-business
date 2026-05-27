@@ -1,8 +1,8 @@
 ---
 title: "Selecting Agentic AI Value Pools Worth Pursuing"
 sidebar_position: 10
-image: "/img/diagrams/10-agentic-ai-value-pool-selection.png"
 description: "Imagine you are the head of a business function. Your team has already run several AI pilots. Technically, some have succeeded—the model responds well, the agent..."
+image: "/img/social/10-agentic-ai-value-pool-selection.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

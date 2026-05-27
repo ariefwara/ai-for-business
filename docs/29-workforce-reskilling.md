@@ -1,8 +1,8 @@
 ---
 title: "Workforce Reskilling untuk Agentic Enterprise"
 sidebar_position: 29
-image: "/img/diagrams/29-workforce-reskilling.png"
 description: "Bayangkan tim finance Anda baru saja meluncurkan agent yang membantu proses close bulanan. Agent itu bisa menarik data dari ERP, menyusun draft variance commentary,..."
+image: "/img/social/29-workforce-reskilling.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

@@ -1,8 +1,8 @@
 ---
 title: "エンタープライズエージェントプラットフォームのリファレンスアーキテクチャ"
 sidebar_position: 17
-image: "/img/diagrams/17-enterprise-agent-platform-reference-architecture.png"
 description: "貴社の財務チームが、月次決算プロセスを支援するエージェントの構築に成功したと想像してみてください。その結果は有望です。照合時間の短縮、例外の早期発見、そしてチー..."
+image: "/img/social/17-enterprise-agent-platform-reference-architecture.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

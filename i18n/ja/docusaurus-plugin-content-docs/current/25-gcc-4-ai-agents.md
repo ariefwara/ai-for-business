@@ -1,8 +1,8 @@
 ---
 title: "GCC 4.0: AIエージェントベースのグローバル・ケイパビリティ・センター"
 sidebar_position: 25
-image: "/img/diagrams/25-gcc-4-ai-agents.png"
 description: "あなたがグローバル・ケイパビリティ・センター（GCC）を率いていると想像してください。長年にわたり、あなたのチームは業務の集中、コスト削減、デリバリー品質の維持..."
+image: "/img/social/25-gcc-4-ai-agents.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

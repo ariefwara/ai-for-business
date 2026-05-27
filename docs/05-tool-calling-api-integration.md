@@ -1,8 +1,8 @@
 ---
 title: "Tool Calling, API, dan Enterprise Integration"
 sidebar_position: 5
-image: "/img/diagrams/05-tool-calling-api-integration.png"
 description: "Bayangkan tim finance Anda sudah mulai menggunakan AI untuk membantu proses penutupan buku bulanan. Copilot yang ada saat ini cukup pintar menjelaskan mengapa..."
+image: "/img/social/05-tool-calling-api-integration.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

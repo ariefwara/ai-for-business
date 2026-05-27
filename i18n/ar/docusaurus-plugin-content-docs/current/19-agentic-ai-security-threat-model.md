@@ -1,8 +1,8 @@
 ---
 title: "نموذج تهديد أمني للذكاء الاصطناعي العاملي (Agentic AI)"
 sidebar_position: 19
-image: "/img/diagrams/19-agentic-ai-security-threat-model.png"
 description: "تخيل أن فريق المشتريات قد أطلق للتو عاملاً (agent) يمكنه قراءة طلبات الاستلام، واستعراض سياسات الشراء، والتحقق من بيانات الموردين، ثم إنشاء مسودة أمر شراء. كل شيء..."
+image: "/img/social/19-agentic-ai-security-threat-model.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

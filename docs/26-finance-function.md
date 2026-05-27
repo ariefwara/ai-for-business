@@ -1,8 +1,8 @@
 ---
 title: "Finance Function di Era Agentic AI"
 sidebar_position: 26
-image: "/img/diagrams/26-finance-function.png"
 description: "Bayangkan tim finance Anda sedang menjalani proses month-end close. Angka-angka sudah ada di ERP, tetapi masih ada entitas yang belum mengirim data, akun-akun..."
+image: "/img/social/26-finance-function.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

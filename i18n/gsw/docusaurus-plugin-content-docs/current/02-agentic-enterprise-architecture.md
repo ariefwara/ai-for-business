@@ -1,8 +1,8 @@
 ---
 title: "Wa isch Agentic Enterprise Architecture"
 sidebar_position: 2
-image: "/img/diagrams/02-agentic-enterprise-architecture.png"
 description: "Stell dir vor, dis Finance-Team isch grad am monatliche Abschluss. D Date sind verteilt über ERP, Spreadsheets, wo per Email gschickt worde sind, und manuelli..."
+image: "/img/social/02-agentic-enterprise-architecture.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

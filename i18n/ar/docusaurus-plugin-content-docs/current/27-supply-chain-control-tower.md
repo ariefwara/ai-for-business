@@ -1,8 +1,8 @@
 ---
 title: "برج التحكم في سلسلة التوريد باستخدام وكلاء الذكاء الاصطناعي"
 sidebar_position: 27
-image: "/img/diagrams/27-supply-chain-control-tower.png"
 description: "لطالما استثمرت العديد من الشركات في سلاسل التوريد الخاصة بها. تم بناء لوحات المعلومات، وإطلاق أبراج التحكم، وتثبيت التنبيهات، وبدأ دمج البيانات من أنظمة ERP و WMS و..."
+image: "/img/social/27-supply-chain-control-tower.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

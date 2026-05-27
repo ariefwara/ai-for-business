@@ -1,8 +1,8 @@
 ---
 title: "Outcome-Based Operating Model"
 sidebar_position: 31
-image: "/img/diagrams/31-outcome-based-operating-model.png"
 description: "Imagine you lead a shared services finance team. For years, your team has been measured by the number of invoices processed per analyst, the average time to handle..."
+image: "/img/social/31-outcome-based-operating-model.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

@@ -1,8 +1,8 @@
 ---
 title: "Business Case Agentic AI: Vo Demo zur verantwortbare Investition"
 sidebar_position: 12
-image: "/img/diagrams/12-agentic-ai-business-case.png"
 description: "En Chef vo de Finance Operations het grad en Demo vo agentic AI gsee. Uf em Bildschirm het de Agent chöne usstehendi Rechnige finde, se mit Purchase Orders abgliche..."
+image: "/img/social/12-agentic-ai-business-case.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

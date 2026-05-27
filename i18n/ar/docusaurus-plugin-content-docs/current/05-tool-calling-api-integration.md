@@ -1,8 +1,8 @@
 ---
 title: "استدعاء الأدوات، واجهات برمجة التطبيقات، والتكامل المؤسسي"
 sidebar_position: 5
-image: "/img/diagrams/05-tool-calling-api-integration.png"
 description: "تخيل أن فريقك المالي بدأ بالفعل في استخدام الذكاء الاصطناعي للمساعدة في عملية إغلاق الدفاتر الشهرية. المساعد الرقمي الحالي ذكي بما يكفي لشرح سبب تعليق فاتورة معينة...."
+image: "/img/social/05-tool-calling-api-integration.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

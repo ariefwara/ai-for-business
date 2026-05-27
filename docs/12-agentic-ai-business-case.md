@@ -1,8 +1,8 @@
 ---
 title: "Business Case Agentic AI: Dari Demo ke Investasi yang Bisa Dipertanggungjawabkan"
 sidebar_position: 12
-image: "/img/diagrams/12-agentic-ai-business-case.png"
 description: "Seorang kepala finance operations baru saja menyelesaikan demo agentic AI. Di layar, agent mampu mencari invoice yang tertunda, mencocokkan dengan purchase order,..."
+image: "/img/social/12-agentic-ai-business-case.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

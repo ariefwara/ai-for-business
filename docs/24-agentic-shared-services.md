@@ -1,8 +1,8 @@
 ---
 title: "Mengubah Shared Services Menjadi Agentic Services"
 sidebar_position: 24
-image: "/img/diagrams/24-agentic-shared-services.png"
 description: "Bayangkan tim finance operations Anda setiap hari menerima puluhan invoice exception. Setiap kasus harus dibuka, dibaca, dicocokkan dengan PO dan goods receipt,..."
+image: "/img/social/24-agentic-shared-services.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

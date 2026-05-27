@@ -1,8 +1,8 @@
 ---
 title: "Performance Metrics für Human-Agent Teams"
 sidebar_position: 30
-image: "/img/diagrams/30-performance-metrics.png"
 description: "Stell dir vor, dis Finance-Team fangt a, en Agent für de monatlich Abschluss z'bruuche. De Agent holt d'Date us em ERP, schribt en Draft-Kommentar und bereitet..."
+image: "/img/social/30-performance-metrics.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

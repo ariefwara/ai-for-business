@@ -1,8 +1,8 @@
 ---
 title: "Finance Function i drä Era vo Agentic AI"
 sidebar_position: 26
-image: "/img/diagrams/26-finance-function.png"
 description: "Stell dir vor, dis Finance-Team isch grad am Month-End Close. D Zahle sind scho im ERP, aber es gid no Entitäte, wo ihri Date nöd gschickt händ, Kontene mit..."
+image: "/img/social/26-finance-function.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

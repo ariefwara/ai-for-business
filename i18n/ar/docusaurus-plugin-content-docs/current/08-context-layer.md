@@ -1,8 +1,8 @@
 ---
 title: "طبقة السياق: RAG، الرسم البياني المعرفي، وذاكرة المؤسسة"
 sidebar_position: 8
-image: "/img/diagrams/08-context-layer.png"
 description: "تخيل أن فريقك المالي يحاول استخدام وكيل (agent) للمساعدة في عملية إغلاق الحسابات الشهرية. الوكيل قادر على الوصول إلى البيانات، لكن النتائج غريبة: أحيانًا يأخذ..."
+image: "/img/social/08-context-layer.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

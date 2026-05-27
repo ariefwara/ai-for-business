@@ -1,8 +1,8 @@
 ---
 title: "Orchestrator Agent vs Task Agent"
 sidebar_position: 4
-image: "/img/diagrams/04-orchestrator-vs-task-agent.png"
 description: "Imagine your finance team is trying to close the books at month-end. Data is scattered across the ERP, spreadsheets, and emails. There are journal anomalies to..."
+image: "/img/social/04-orchestrator-vs-task-agent.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

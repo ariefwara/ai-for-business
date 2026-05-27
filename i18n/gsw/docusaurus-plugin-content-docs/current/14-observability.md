@@ -1,8 +1,8 @@
 ---
 title: "Observability für Agentic Systems"
 sidebar_position: 14
-image: "/img/diagrams/14-observability.png"
 description: "Stell der vor, es Finanzteam het grad en Agent iigsetzt, wo bi de monatleche Abschlüss hälfe söll. Dä Agent cha Date us em ERP hole, Spreadsheets läse, wo per Email..."
+image: "/img/social/14-observability.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

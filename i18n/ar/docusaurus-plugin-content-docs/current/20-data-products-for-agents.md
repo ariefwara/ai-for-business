@@ -1,8 +1,8 @@
 ---
 title: "منتجات البيانات لوكلاء الذكاء الاصطناعي"
 sidebar_position: 20
-image: "/img/diagrams/20-data-products-for-agents.png"
 description: "تعتقد العديد من الفرق التي تبدأ في تجربة الذكاء الاصطناعي الوكيل (agentic AI) أنها مستعدة لأن البيانات متوفرة. هناك بحيرة بيانات، ومستودع بيانات، ولوحات معلومات..."
+image: "/img/social/20-data-products-for-agents.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

@@ -1,8 +1,8 @@
 ---
 title: "الأدوار الجديدة في المؤسسة العاملة بالوكلاء"
 sidebar_position: 23
-image: "/img/diagrams/23-new-roles.png"
 description: "تخيل فريقاً مالياً بدأ باستخدام وكيل (Agent) للمساعدة في عملية الإغلاق الشهري. يمكن للوكيل جمع البيانات من نظام ERP، وإعداد مسودات التعليقات، ووضع علامات على..."
+image: "/img/social/23-new-roles.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

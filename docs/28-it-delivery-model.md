@@ -1,8 +1,8 @@
 ---
 title: "IT Delivery Model dengan AI Software Agents"
 sidebar_position: 28
-image: "/img/diagrams/28-it-delivery-model.png"
 description: "Banyak tim teknologi memulai perjalanan AI dari tempat yang paling nyaman: coding assistant. Developer memakai AI untuk menulis boilerplate, membuat unit test, atau..."
+image: "/img/social/28-it-delivery-model.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

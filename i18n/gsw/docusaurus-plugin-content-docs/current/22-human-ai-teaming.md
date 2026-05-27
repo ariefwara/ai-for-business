@@ -1,8 +1,8 @@
 ---
 title: "Human-AI Teaming i de Firma"
 sidebar_position: 22
-image: "/img/diagrams/22-human-ai-teaming.png"
 description: "Vili Firmene started ihri AI-Reis uf ähnlichi Wiis. En Finanzanalyst lot en Chatbot e Zämmefassig vo de Variance mache. En Ychäufer lot en Entwurf für e Mail a de..."
+image: "/img/social/22-human-ai-teaming.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

@@ -1,8 +1,8 @@
 ---
 title: "الهوية والتحكم في الوصول لوكلاء الذكاء الاصطناعي"
 sidebar_position: 13
-image: "/img/diagrams/13-identity-access-control.png"
 description: "تخيل أن فريق المالية لديك يقوم بإعداد وكيل للمساعدة في عملية إغلاق الشهر. يمكن لهذا الوكيل قراءة القيود المفتوحة، والتحقق من التسويات، وإعداد مسودات تعليقات للبنود..."
+image: "/img/social/13-identity-access-control.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

@@ -1,8 +1,8 @@
 ---
 title: "الحواجز الواقية، محرك السياسات، وسير عمل الموافقة البشرية"
 sidebar_position: 15
-image: "/img/diagrams/15-guardrails-policy-human-approval.png"
 description: "تخيل أن فريقك المالي بدأ بالفعل في استخدام وكيل للمساعدة في عملية الإغلاق الشهري. يمكن للوكيل تحديد الاستثناءات، وجمع الأدلة من أنظمة مختلفة، وإعداد مسودات..."
+image: "/img/social/15-guardrails-policy-human-approval.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

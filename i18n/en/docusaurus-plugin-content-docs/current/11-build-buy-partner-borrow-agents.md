@@ -1,8 +1,8 @@
 ---
 title: "Build, Buy, Partner, or Borrow: AI Agent Sourcing Strategies"
 sidebar_position: 11
-image: "/img/diagrams/11-build-buy-partner-borrow-agents.png"
 description: "Imagine you are a chief technology officer or a head of a business function. Your team is already seeing the potential of agentic AI. Perhaps there's a promising..."
+image: "/img/social/11-build-buy-partner-borrow-agents.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

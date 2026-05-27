@@ -1,8 +1,8 @@
 ---
 title: "Agentic AI FinOps: إدارة التكلفة، وزمن الاستجابة، والسعة"
 sidebar_position: 21
-image: "/img/diagrams/21-agentic-ai-finops.png"
 description: "مدير خدمات مشتركة يرى أن النموذج التجريبي (pilot) لمعالجة استثناءات الحسابات الدائنة (AP) يعمل بسلاسة. تبدو التكلفة لكل معاملة في لوحة المعلومات صغيرة، وزمن..."
+image: "/img/social/21-agentic-ai-finops.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

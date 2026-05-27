@@ -1,8 +1,8 @@
 ---
 title: "وظيفة المالية في عصر الذكاء الاصطناعي العاملي"
 sidebar_position: 26
-image: "/img/diagrams/26-finance-function.png"
 description: "تخيل أن فريقك المالي يمر بعملية إقفال نهاية الشهر. الأرقام موجودة بالفعل في نظام ERP، ولكن لا تزال هناك كيانات لم ترسل بياناتها بعد، وحسابات ذات فروق لم يتم..."
+image: "/img/social/26-finance-function.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

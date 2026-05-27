@@ -1,8 +1,8 @@
 ---
 title: "إدارة دورة حياة العامل الذكي"
 sidebar_position: 16
-image: "/img/diagrams/16-agent-lifecycle-management.png"
 description: "تخيل أن فريق المالية في شركتك أطلق للتو عاملاً ذكياً للمساعدة في عملية الإغلاق الشهري. في العرض التجريبي، سار كل شيء بسلاسة. كان العامل الذكي يسحب البيانات من نظام..."
+image: "/img/social/16-agent-lifecycle-management.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

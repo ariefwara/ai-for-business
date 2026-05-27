@@ -1,8 +1,8 @@
 ---
 title: "Data Foundation for Agentic AI"
 sidebar_position: 7
-image: "/img/diagrams/07-data-foundation.png"
 description: "Imagine your finance team has built an agent that can help with the month-end close process. The agent connects to the ERP, can read journal entries, and even..."
+image: "/img/social/07-data-foundation.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

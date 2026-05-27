@@ -1,8 +1,8 @@
 ---
 title: "Data Foundation für Agentic AI"
 sidebar_position: 7
-image: "/img/diagrams/07-data-foundation.png"
 description: "Stell dir vor, dini Finance-Abteilig hät en Agent baut, wo bim Abschlussprozess hälfe söll. De Agent isch a s ERP aabunde, cha Journäl läse und sogar scho en..."
+image: "/img/social/07-data-foundation.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

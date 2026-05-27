@@ -1,8 +1,8 @@
 ---
 title: "エージェンティック・エンタープライズにおける新たな役割"
 sidebar_position: 23
-image: "/img/diagrams/23-new-roles.png"
 description: "ある財務チームが、月次決算プロセスを支援するためにエージェントの導入を始めたと想像してみてください。エージェントはERPからデータを収集し、ドラフトコメントを作..."
+image: "/img/social/23-new-roles.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

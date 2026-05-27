@@ -1,8 +1,8 @@
 ---
 title: "Agentic AI FinOps: コスト、レイテンシ、キャパシティの管理"
 sidebar_position: 21
-image: "/img/diagrams/21-agentic-ai-finops.png"
 description: "あるシェアードサービスのマネージャーは、AP（買掛金）例外処理のエージェントパイロットが順調に稼働しているのを目の当たりにしました。ダッシュボード上の取引あたり..."
+image: "/img/social/21-agentic-ai-finops.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

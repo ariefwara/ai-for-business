@@ -1,8 +1,8 @@
 ---
 title: "AI Agents mit ERP, CRM, HRIS und Chärnsystem verbinde"
 sidebar_position: 6
-image: "/img/diagrams/06-agents-erp-crm-core-systems.png"
 description: "Stell dir vor, dini Finance-Abteilig fangt a, en Agent für de monatlech Büecher-Abschluss yzsetze. De Agent cha Rännige läse, si mit Bestellige abglyche und..."
+image: "/img/social/06-agents-erp-crm-core-systems.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

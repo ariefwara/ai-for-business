@@ -1,8 +1,8 @@
 ---
 title: "Was isch es Agentic Operating Model"
 sidebar_position: 3
-image: "/img/diagrams/03-agentic-operating-model.png"
 description: "Stell der vor, es Finanzteam fangt a, en Agent z bruuche für de monatlech Abschluss. De Agent cha Date us em ERP hole, Rächige abglyche, Journaleentwürf vorbereite..."
+image: "/img/social/03-agentic-operating-model.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

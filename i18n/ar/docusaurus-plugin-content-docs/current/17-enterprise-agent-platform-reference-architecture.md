@@ -1,8 +1,8 @@
 ---
 title: "البنية المرجعية لمنصة وكلاء المؤسسات"
 sidebar_position: 17
-image: "/img/diagrams/17-enterprise-agent-platform-reference-architecture.png"
 description: "تخيل أن فريق المالية في شركتك نجح في بناء وكيل (Agent) للمساعدة في عملية الإغلاق الشهري. وكانت النتائج واعدة: انخفاض وقت التسوية، واكتشاف الاستثناءات بشكل أسرع،..."
+image: "/img/social/17-enterprise-agent-platform-reference-architecture.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

@@ -1,8 +1,8 @@
 ---
 title: "Connecting AI Agents to ERP, CRM, HRIS, and Core Systems"
 sidebar_position: 6
-image: "/img/diagrams/06-agents-erp-crm-core-systems.png"
 description: "Imagine your finance team starts using an agent to help with the monthly book close. The agent can read invoices, match them against purchase orders, and flag..."
+image: "/img/social/06-agents-erp-crm-core-systems.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

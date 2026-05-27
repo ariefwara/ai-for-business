@@ -1,8 +1,8 @@
 ---
 title: "Agentic AI Maturity Model untuk Perusahaan"
 sidebar_position: 9
-image: "/img/diagrams/09-agentic-ai-maturity-model.png"
 description: "Bayangkan rapat eksekutif di mana satu orang berkata, \"kita sudah pakai AI agents,\" sementara yang lain membayangkan chatbot knowledge base, yang lain membayangkan..."
+image: "/img/social/09-agentic-ai-maturity-model.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

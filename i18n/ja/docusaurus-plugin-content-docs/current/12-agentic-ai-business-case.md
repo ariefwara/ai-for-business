@@ -1,8 +1,8 @@
 ---
 title: "Agentic AIのビジネスケース：デモから説明責任ある投資へ"
 sidebar_position: 12
-image: "/img/diagrams/12-agentic-ai-business-case.png"
 description: "ある経理財務責任者が、agentic AIのデモを終えたところだ。画面上では、エージェントが滞留している請求書を検索し、発注書と照合し、支払い推奨案を数秒で準備..."
+image: "/img/social/12-agentic-ai-business-case.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

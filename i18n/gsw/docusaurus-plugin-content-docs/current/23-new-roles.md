@@ -1,8 +1,8 @@
 ---
 title: "Nöie Rolle im Agentic Enterprise"
 sidebar_position: 23
-image: "/img/diagrams/23-new-roles.png"
 description: "Stell dir es Finanzteam vor, wo aafangt, Agenten yzsetze, zum de monatlech Abschluss z' beschlünige. De Agent cha Date us em ERP sammle, en Entwurf vom Kommentar..."
+image: "/img/social/23-new-roles.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

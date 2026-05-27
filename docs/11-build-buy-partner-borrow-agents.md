@@ -1,8 +1,8 @@
 ---
 title: "Build, Buy, Partner, atau Borrow: Strategi Sourcing AI Agents"
 sidebar_position: 11
-image: "/img/diagrams/11-build-buy-partner-borrow-agents.png"
 description: "Bayangkan Anda berada di posisi seorang kepala teknologi atau kepala fungsi bisnis. Tim Anda sudah mulai melihat potensi agentic AI. Mungkin ada pilot chatbot di..."
+image: "/img/social/11-build-buy-partner-borrow-agents.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

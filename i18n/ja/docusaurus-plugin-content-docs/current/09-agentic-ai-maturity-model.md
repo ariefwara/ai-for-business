@@ -1,8 +1,8 @@
 ---
 title: "エンタープライズ向けエージェンティックAI成熟度モデル"
 sidebar_position: 9
-image: "/img/diagrams/09-agentic-ai-maturity-model.png"
 description: "ある経営会議で、ある人物が「我々はAIエージェントを導入している」と発言したとしよう。しかし、他の参加者はナレッジベースのチャットボットを想像し、また別の参加者..."
+image: "/img/social/09-agentic-ai-maturity-model.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

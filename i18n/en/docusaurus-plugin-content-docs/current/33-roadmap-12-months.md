@@ -1,8 +1,8 @@
 ---
 title: "12-Month Roadmap to an Agentic Operating Model"
 sidebar_position: 33
-image: "/img/diagrams/33-roadmap-12-months.png"
 description: "Imagine you have just completed a 90-day pilot. One agent is running, the results are promising, and the team is starting to ask: \"When do we scale?\" That question..."
+image: "/img/social/33-roadmap-12-months.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

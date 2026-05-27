@@ -1,8 +1,8 @@
 ---
 title: "エージェントライフサイクル管理"
 sidebar_position: 16
-image: "/img/diagrams/16-agent-lifecycle-management.png"
 description: "皆さんの会社の経理チームが、月次決算プロセスを支援するエージェントをリリースしたと想像してみてください。デモでは、すべてが順調に見えました。エージェントはERP..."
+image: "/img/social/16-agent-lifecycle-management.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

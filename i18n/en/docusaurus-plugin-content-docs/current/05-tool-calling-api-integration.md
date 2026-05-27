@@ -1,8 +1,8 @@
 ---
 title: "Tool Calling, APIs, and Enterprise Integration"
 sidebar_position: 5
-image: "/img/diagrams/05-tool-calling-api-integration.png"
 description: "Imagine your finance team has started using AI to help with the monthly book close process. The current copilot is smart enough to explain why an invoice is on..."
+image: "/img/social/05-tool-calling-api-integration.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

@@ -1,8 +1,8 @@
 ---
 title: "Data Products untuk AI Agents"
 sidebar_position: 20
-image: "/img/diagrams/20-data-products-for-agents.png"
 description: "Banyak tim yang mulai mencoba agentic AI merasa sudah siap karena data tersedia. Ada data lake, warehouse, dashboard BI, atau indeks dokumen yang besar. Untuk..."
+image: "/img/social/20-data-products-for-agents.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

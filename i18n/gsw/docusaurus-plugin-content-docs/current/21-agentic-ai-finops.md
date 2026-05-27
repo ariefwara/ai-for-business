@@ -1,8 +1,8 @@
 ---
 title: "Agentic AI FinOps: Cost, Latency und Capacity managen"
 sidebar_position: 21
-image: "/img/diagrams/21-agentic-ai-finops.png"
 description: "En Manager vo Shared Services gseet, wie en Agent-Pilot für AP Exception Handling runderlofft. D’Cost pro Transaktion im Dashboard sind chli, d’Latency isch no..."
+image: "/img/social/21-agentic-ai-finops.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

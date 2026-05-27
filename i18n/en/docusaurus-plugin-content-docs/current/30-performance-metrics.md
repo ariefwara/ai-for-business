@@ -1,8 +1,8 @@
 ---
 title: "Performance Metrics for Human-Agent Teams"
 sidebar_position: 30
-image: "/img/diagrams/30-performance-metrics.png"
 description: "Imagine your finance team starts using an agent to help with the monthly close process. The agent pulls data from the ERP, drafts commentary, and prepares evidence..."
+image: "/img/social/30-performance-metrics.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

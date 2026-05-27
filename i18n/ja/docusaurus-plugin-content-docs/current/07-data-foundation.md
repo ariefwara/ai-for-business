@@ -1,8 +1,8 @@
 ---
 title: "Agentic AIのためのデータ基盤"
 sidebar_position: 7
-image: "/img/diagrams/07-data-foundation.png"
 description: "皆さんの財務チームが、決算業務を支援するエージェントを構築したと想像してみてください。そのエージェントはERPに接続され、仕訳を読み取り、さらには調整案のドラフ..."
+image: "/img/social/07-data-foundation.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

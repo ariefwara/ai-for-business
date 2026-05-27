@@ -1,8 +1,8 @@
 ---
 title: "Observability for Agentic Systems"
 sidebar_position: 14
-image: "/img/diagrams/14-observability.png"
 description: "Imagine a finance team that has just deployed an agent to assist with the month-end close process. This agent can pull data from the ERP, read spreadsheets sent via..."
+image: "/img/social/14-observability.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

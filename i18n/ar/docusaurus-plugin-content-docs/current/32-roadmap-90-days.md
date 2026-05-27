@@ -1,8 +1,8 @@
 ---
 title: "خارطة طريق 90 يوماً لبناء نموذج تجريبي لمؤسسة وكيلة (Agentic Enterprise Pilot)"
 sidebar_position: 32
-image: "/img/diagrams/32-roadmap-90-days.png"
 description: "لقد تجاوزت العديد من الشركات مرحلة الفضول تجاه الذكاء الاصطناعي. تم تجربة الأدوات، واستخدام المساعدين الرقميين (copilots)، وتقديم العديد من نماذج الإثبات (proofs of..."
+image: "/img/social/32-roadmap-90-days.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

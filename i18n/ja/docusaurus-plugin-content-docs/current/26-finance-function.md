@@ -1,8 +1,8 @@
 ---
 title: "エージェンティックAI時代の財務機能"
 sidebar_position: 26
-image: "/img/diagrams/26-finance-function.png"
 description: "皆さんの財務チームが月次決算処理を行っているところを想像してみてください。ERPにはすでに数字が入っていますが、まだデータを送信していない事業体があり、説明され..."
+image: "/img/social/26-finance-function.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

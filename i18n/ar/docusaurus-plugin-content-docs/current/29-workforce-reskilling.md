@@ -1,8 +1,8 @@
 ---
 title: "إعادة تأهيل القوى العاملة للمؤسسة العاملة بالوكلاء"
 sidebar_position: 29
-image: "/img/diagrams/29-workforce-reskilling.png"
 description: "تخيل أن فريقك المالي قد أطلق للتو وكيلاً (agent) يساعد في عملية إغلاق الحسابات الشهرية. هذا الوكيل قادر على سحب البيانات من نظام ERP، وإعداد مسودة تحليل الانحرافات..."
+image: "/img/social/29-workforce-reskilling.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

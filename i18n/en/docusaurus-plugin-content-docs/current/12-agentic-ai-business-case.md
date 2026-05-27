@@ -1,8 +1,8 @@
 ---
 title: "Business Case for Agentic AI: From Demo to Defensible Investment"
 sidebar_position: 12
-image: "/img/diagrams/12-agentic-ai-business-case.png"
 description: "A head of finance operations has just finished an agentic AI demo. On screen, the agent can find overdue invoices, match them against purchase orders, and prepare..."
+image: "/img/social/12-agentic-ai-business-case.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

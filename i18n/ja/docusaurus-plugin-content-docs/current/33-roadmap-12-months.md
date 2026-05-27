@@ -1,8 +1,8 @@
 ---
 title: "エージェンティック・オペレーティングモデルへの12ヶ月ロードマップ"
 sidebar_position: 33
-image: "/img/diagrams/33-roadmap-12-months.png"
 description: "90日間のパイロットを完了したばかりの状況を想像してみてください。1つのエージェントが稼働し、結果は有望で、チームからは「いつスケールさせるのか？」という質問が..."
+image: "/img/social/33-roadmap-12-months.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

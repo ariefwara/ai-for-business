@@ -1,8 +1,8 @@
 ---
 title: "تحويل الخدمات المشتركة إلى خدمات وكيلة (Agentic Services)"
 sidebar_position: 24
-image: "/img/diagrams/24-agentic-shared-services.png"
 description: "تخيل أن فريق العمليات المالية في شركتك يتلقى يومياً عشرات حالات استثناء الفواتير. كل حالة تتطلب فتحها، وقراءتها، ومطابقتها مع أمر الشراء وإشعار استلام البضائع، ثم..."
+image: "/img/social/24-agentic-shared-services.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

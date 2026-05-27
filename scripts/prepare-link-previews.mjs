@@ -192,10 +192,10 @@ function cleanPreviewText(value) {
 
 function imageForFile(file) {
   const number = articleNumberFromName(file);
-  if (!number) return "/img/diagrams/01-agentic-transformation.png";
+  if (!number) return "/img/social/01-agentic-transformation.jpg";
 
   const slug = articleSlugFromName(file);
-  return `/img/diagrams/${String(number).padStart(2, "0")}-${slug}.png`;
+  return `/img/social/${String(number).padStart(2, "0")}-${slug}.jpg`;
 }
 
 async function prepareFile({ file, args }) {

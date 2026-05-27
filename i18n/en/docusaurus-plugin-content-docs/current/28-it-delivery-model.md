@@ -1,8 +1,8 @@
 ---
 title: "IT Delivery Model with AI Software Agents"
 sidebar_position: 28
-image: "/img/diagrams/28-it-delivery-model.png"
 description: "Many technology teams begin their AI journey from the most comfortable starting point: the coding assistant. Developers use AI to write boilerplate code, create..."
+image: "/img/social/28-it-delivery-model.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

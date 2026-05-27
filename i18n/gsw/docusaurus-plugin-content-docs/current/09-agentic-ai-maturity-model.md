@@ -1,8 +1,8 @@
 ---
 title: "Agentic AI Maturity Model für Undernähme"
 sidebar_position: 9
-image: "/img/diagrams/09-agentic-ai-maturity-model.png"
 description: "Stell dir vor, ene Sitzig vom Führigspersonal, wo eine seit: \"Mir händ scho AI agents im Iisatz\", während en andere en Chatbot für d'Wissensbasis vor sich gseht, en..."
+image: "/img/social/09-agentic-ai-maturity-model.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

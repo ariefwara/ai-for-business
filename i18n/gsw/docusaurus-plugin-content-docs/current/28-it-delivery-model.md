@@ -1,8 +1,8 @@
 ---
 title: "IT Delivery Model mit AI Software Agents"
 sidebar_position: 28
-image: "/img/diagrams/28-it-delivery-model.png"
 description: "Vili Technologie-Teams fanged ire AI-Reis a de Position wo am meischte vertraut isch: em Coding Assistant. Entwickler bruuched AI zum Boilerplate schriibe,..."
+image: "/img/social/28-it-delivery-model.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

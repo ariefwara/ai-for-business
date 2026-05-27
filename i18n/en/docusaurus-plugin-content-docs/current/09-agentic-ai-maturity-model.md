@@ -1,8 +1,8 @@
 ---
 title: "Agentic AI Maturity Model for the Enterprise"
 sidebar_position: 9
-image: "/img/diagrams/09-agentic-ai-maturity-model.png"
 description: "Imagine an executive meeting where one person says, \"We're already using AI agents,\" while another envisions a knowledge base chatbot, another imagines a copilot..."
+image: "/img/social/09-agentic-ai-maturity-model.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

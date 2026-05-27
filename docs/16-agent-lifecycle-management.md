@@ -1,8 +1,8 @@
 ---
 title: "Agent Lifecycle Management"
 sidebar_position: 16
-image: "/img/diagrams/16-agent-lifecycle-management.png"
 description: "Bayangkan tim finance Anda baru saja meluncurkan agent untuk membantu proses closing bulanan. Di demo, semuanya berjalan mulus. Agent mengambil data dari ERP,..."
+image: "/img/social/16-agent-lifecycle-management.jpg"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';
