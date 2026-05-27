@@ -15,9 +15,9 @@ const sidebars = {
           label: 'Strategic Shift',
           collapsed: false,
           items: [
-            'agentic-enterprise/agentic-transformation',
-            'agentic-enterprise/agentic-enterprise-architecture',
-            'agentic-enterprise/agentic-operating-model'
+            'agentic-transformation',
+            'agentic-enterprise-architecture',
+            'agentic-operating-model'
           ]
         },
         {
@@ -25,9 +25,9 @@ const sidebars = {
           label: 'Agent Design',
           collapsed: false,
           items: [
-            'agentic-enterprise/orchestrator-vs-task-agent',
-            'agentic-enterprise/tool-calling-api-integration',
-            'agentic-enterprise/agents-erp-crm-core-systems'
+            'orchestrator-vs-task-agent',
+            'tool-calling-api-integration',
+            'agents-erp-crm-core-systems'
           ]
         },
         {
@@ -35,8 +35,8 @@ const sidebars = {
           label: 'Data and Context',
           collapsed: false,
           items: [
-            'agentic-enterprise/data-foundation',
-            'agentic-enterprise/context-layer'
+            'data-foundation',
+            'context-layer'
           ]
         },
         {
@@ -44,10 +44,10 @@ const sidebars = {
           label: 'Strategy and Value',
           collapsed: false,
           items: [
-            'agentic-enterprise/agentic-ai-maturity-model',
-            'agentic-enterprise/agentic-ai-value-pool-selection',
-            'agentic-enterprise/build-buy-partner-borrow-agents',
-            'agentic-enterprise/agentic-ai-business-case'
+            'agentic-ai-maturity-model',
+            'agentic-ai-value-pool-selection',
+            'build-buy-partner-borrow-agents',
+            'agentic-ai-business-case'
           ]
         }
       ]
@@ -62,10 +62,10 @@ const sidebars = {
           label: 'Runtime Control',
           collapsed: false,
           items: [
-            'agentic-enterprise/identity-access-control',
-            'agentic-enterprise/observability',
-            'agentic-enterprise/guardrails-policy-human-approval',
-            'agentic-enterprise/agent-lifecycle-management'
+            'identity-access-control',
+            'observability',
+            'guardrails-policy-human-approval',
+            'agent-lifecycle-management'
           ]
         },
         {
@@ -73,11 +73,11 @@ const sidebars = {
           label: 'Security and Evaluation',
           collapsed: false,
           items: [
-            'agentic-enterprise/enterprise-agent-platform-reference-architecture',
-            'agentic-enterprise/agent-evaluation-testing',
-            'agentic-enterprise/agentic-ai-security-threat-model',
-            'agentic-enterprise/data-products-for-agents',
-            'agentic-enterprise/agentic-ai-finops'
+            'enterprise-agent-platform-reference-architecture',
+            'agent-evaluation-testing',
+            'agentic-ai-security-threat-model',
+            'data-products-for-agents',
+            'agentic-ai-finops'
           ]
         }
       ]
@@ -92,10 +92,10 @@ const sidebars = {
           label: 'Human-Agent Organization',
           collapsed: false,
           items: [
-            'agentic-enterprise/human-ai-teaming',
-            'agentic-enterprise/new-roles',
-            'agentic-enterprise/agentic-shared-services',
-            'agentic-enterprise/gcc-4-ai-agents'
+            'human-ai-teaming',
+            'new-roles',
+            'agentic-shared-services',
+            'gcc-4-ai-agents'
           ]
         },
         {
@@ -103,9 +103,9 @@ const sidebars = {
           label: 'Function Transformation',
           collapsed: false,
           items: [
-            'agentic-enterprise/finance-function',
-            'agentic-enterprise/supply-chain-control-tower',
-            'agentic-enterprise/it-delivery-model'
+            'finance-function',
+            'supply-chain-control-tower',
+            'it-delivery-model'
           ]
         },
         {
@@ -113,11 +113,11 @@ const sidebars = {
           label: 'Roadmap and Metrics',
           collapsed: false,
           items: [
-            'agentic-enterprise/workforce-reskilling',
-            'agentic-enterprise/performance-metrics',
-            'agentic-enterprise/outcome-based-operating-model',
-            'agentic-enterprise/roadmap-90-days',
-            'agentic-enterprise/roadmap-12-months'
+            'workforce-reskilling',
+            'performance-metrics',
+            'outcome-based-operating-model',
+            'roadmap-90-days',
+            'roadmap-12-months'
           ]
         }
       ]

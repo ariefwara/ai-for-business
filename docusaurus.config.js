@@ -55,7 +55,7 @@ const config = {
           position: 'left'
         },
         {
-          to: '/agentic-enterprise/agentic-transformation',
+          to: '/agentic-transformation',
           label: 'Start Here',
           position: 'left'
         },
@@ -64,15 +64,15 @@ const config = {
           position: 'left',
           items: [
             {
-              to: '/agentic-enterprise/identity-access-control',
+              to: '/identity-access-control',
               label: 'Architecture and Governance'
             },
             {
-              to: '/agentic-enterprise/human-ai-teaming',
+              to: '/human-ai-teaming',
               label: 'Operating Model'
             },
             {
-              to: '/agentic-enterprise/roadmap-90-days',
+              to: '/roadmap-90-days',
               label: 'Roadmap'
             }
           ]
