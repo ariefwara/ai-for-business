@@ -19,6 +19,18 @@ const LOCALES = {
     languageInstruction:
       "Translate into Swiss German, using business-readable Schwiizerduetsch with Latin script. Keep enterprise AI terms natural; keep common English technical terms such as API, platform, workflow, governance, observability, and agent when that is clearer than forcing a dialect word. Avoid Standard German phrasing where a natural Swiss German phrasing is available.",
   },
+  ar: {
+    label: "Arabic",
+    outputDir: "i18n/ar/docusaurus-plugin-content-docs/current",
+    languageInstruction:
+      "Translate into clear Modern Standard Arabic for senior business and technology readers. Preserve technical precision, use natural Arabic business prose, and keep widely used technical terms such as API, platform, workflow, governance, observability, and agent in English when that is clearer than an awkward translation.",
+  },
+  ja: {
+    label: "Japanese",
+    outputDir: "i18n/ja/docusaurus-plugin-content-docs/current",
+    languageInstruction:
+      "Translate into clear, natural Japanese for senior business and technology readers. Preserve technical precision, use polished business Japanese, and keep widely used technical terms such as API, platform, workflow, governance, observability, and agent in English or common katakana usage when that is clearer.",
+  },
 };
 
 function parseArgs(argv) {
@@ -72,12 +84,12 @@ function printHelp() {
   node scripts/translate-docs-with-deepseek.mjs --all
   node scripts/translate-docs-with-deepseek.mjs --locale en --target 1
   node scripts/translate-docs-with-deepseek.mjs --locale gsw --target-slug agentic-transformation
-  node scripts/translate-docs-with-deepseek.mjs --file docs/01-agentic-transformation.md --locales en,gsw
+  node scripts/translate-docs-with-deepseek.mjs --file docs/01-agentic-transformation.md --locales en,gsw,ar,ja
 
 Options:
   --input-dir <dir>        Source docs directory. Default: ${DEFAULT_INPUT_DIR}
   --prompt-dir <dir>       Prompt output directory. Default: ${DEFAULT_PROMPT_DIR}
-  --locale <locale>        Translate one locale: en or gsw.
+  --locale <locale>        Translate one locale: en, gsw, ar, or ja.
   --locales <list>         Comma-separated locales. Default: en,gsw
   --target <number>        Translate article by leading article number.
   --target-slug <slug>     Translate article by slug.

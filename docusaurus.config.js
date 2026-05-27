@@ -18,7 +18,7 @@ const config = {
 
   i18n: {
     defaultLocale: 'id',
-    locales: ['id', 'en', 'gsw'],
+    locales: ['id', 'en', 'gsw', 'ar', 'ja'],
     localeConfigs: {
       id: {
         label: 'Indonesia',
@@ -31,6 +31,15 @@ const config = {
       gsw: {
         label: 'Schwiizerdütsch',
         htmlLang: 'gsw-CH'
+      },
+      ar: {
+        label: 'العربية',
+        htmlLang: 'ar',
+        direction: 'rtl'
+      },
+      ja: {
+        label: '日本語',
+        htmlLang: 'ja-JP'
       }
     }
   },
