@@ -10,7 +10,9 @@
     "article:list": "node scripts/generate-agentic-article-databricks.mjs --list",
     "article:session": "node scripts/generate-agentic-article-databricks.mjs --init-session",
     "article:generate": "node scripts/generate-agentic-article-databricks.mjs",
-    "article:rewrite:deepseek": "node scripts/rewrite-articles-with-deepseek.mjs"
+    "article:rewrite:deepseek": "node scripts/rewrite-articles-with-deepseek.mjs",
+    "diagram:prompts:deepseek": "node scripts/generate-nano-banana-diagram-prompts-with-deepseek.mjs",
+    "diagram:images:fal": "node scripts/generate-nano-banana-images-with-fal.mjs"
   },
   "dependencies": {
     "@docusaurus/core": "3.10.1",

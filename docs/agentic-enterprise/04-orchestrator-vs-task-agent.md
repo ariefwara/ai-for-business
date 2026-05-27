@@ -3,7 +3,11 @@ title: "Orchestrator Agent vs Task Agent"
 sidebar_position: 4
 ---
 
+import ArticleDiagram from '@site/src/components/ArticleDiagram';
+
 # Orchestrator Agent vs Task Agent
+
+<ArticleDiagram src="/img/agentic-enterprise/diagrams/04-orchestrator-vs-task-agent.png" alt="Diagram: Orchestrator Agent vs Task Agent" />
 
 Bayangkan tim finance Anda sedang mencoba menutup buku akhir bulan. Data tersebar di ERP, spreadsheet, dan email. Ada anomali jurnal yang perlu dianalisis, rekonsiliasi yang belum selesai, dan policy pajak yang harus diperiksa. Tim ingin AI membantu mempercepat proses ini, tetapi pertanyaan langsung muncul: apakah cukup satu agent yang mengerjakan semuanya? Atau perlu beberapa agent dengan peran berbeda?
 

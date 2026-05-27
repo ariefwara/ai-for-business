@@ -3,7 +3,11 @@ title: "Supply Chain Control Tower dengan AI Agents"
 sidebar_position: 27
 ---
 
+import ArticleDiagram from '@site/src/components/ArticleDiagram';
+
 # Supply Chain Control Tower dengan AI Agents
+
+<ArticleDiagram src="/img/agentic-enterprise/diagrams/27-supply-chain-control-tower.png" alt="Diagram: Supply Chain Control Tower dengan AI Agents" />
 
 Banyak perusahaan sudah lama berinvestasi di supply chain. Dashboard dibangun, control tower diluncurkan, alert dipasang, dan data dari ERP, WMS, TMS, serta planning system mulai dikonsolidasikan. Namun setelah semua itu, tim operasi sering menemukan diri mereka di tempat yang sama: mereka melihat masalah lebih cepat, tetapi tetap menyelesaikannya dengan cara yang sama seperti sebelumnya.
 

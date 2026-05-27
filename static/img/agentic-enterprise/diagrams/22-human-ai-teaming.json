@@ -1,0 +1,19 @@
+{
+  "promptFile": "docs/agentic-enterprise/_prompts/nano-banana-diagrams/22-human-ai-teaming.nano-banana-prompt.md",
+  "imageFile": "static/img/agentic-enterprise/diagrams/22-human-ai-teaming.png",
+  "model": "fal-ai/nano-banana-pro",
+  "aspectRatio": "16:9",
+  "outputFormat": "png",
+  "safetyTolerance": "4",
+  "requestId": "019e65ec-a2d1-7692-ae60-00ebcc031dbc",
+  "image": {
+    "url": "https://v3b.fal.media/files/b/0a9bccb6/jMUy3QtKaqBeWUSjvxzbB_5vOJ9FZQ.png",
+    "content_type": "image/png",
+    "file_name": "jMUy3QtKaqBeWUSjvxzbB_5vOJ9FZQ.png",
+    "file_size": null,
+    "width": null,
+    "height": null
+  },
+  "resultDescription": "",
+  "generatedAt": "2026-05-26T20:15:02.599Z"
+}

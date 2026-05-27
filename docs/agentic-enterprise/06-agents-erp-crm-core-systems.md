@@ -3,7 +3,11 @@ title: "Menghubungkan AI Agents ke ERP, CRM, HRIS, dan Core Systems"
 sidebar_position: 6
 ---
 
+import ArticleDiagram from '@site/src/components/ArticleDiagram';
+
 # Menghubungkan AI Agents ke ERP, CRM, HRIS, dan Core Systems
+
+<ArticleDiagram src="/img/agentic-enterprise/diagrams/06-agents-erp-crm-core-systems.png" alt="Diagram: Menghubungkan AI Agents ke ERP, CRM, HRIS, dan Core Systems" />
 
 Bayangkan tim finance Anda mulai menggunakan agent untuk membantu proses penutupan buku bulanan. Agent itu bisa membaca invoice, mencocokkan dengan purchase order, dan mendeteksi mana yang tidak cocok. Tapi begitu ia perlu tahu apakah goods receipt sudah diposting, apakah vendor masih aktif, atau apakah invoice itu sudah masuk workflow dispute, ia harus bertanya ke sistem yang menyimpan semua informasi itu. Di situlah masalah mulai terasa.
 

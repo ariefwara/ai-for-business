@@ -3,7 +3,11 @@ title: "Mengubah Shared Services Menjadi Agentic Services"
 sidebar_position: 24
 ---
 
+import ArticleDiagram from '@site/src/components/ArticleDiagram';
+
 # Mengubah Shared Services Menjadi Agentic Services
+
+<ArticleDiagram src="/img/agentic-enterprise/diagrams/24-agentic-shared-services.png" alt="Diagram: Mengubah Shared Services Menjadi Agentic Services" />
 
 Bayangkan tim finance operations Anda setiap hari menerima puluhan invoice exception. Setiap kasus harus dibuka, dibaca, dicocokkan dengan PO dan goods receipt, lalu diputuskan apakah bisa diproses atau perlu ditolak. Sebagian besar waktu habis untuk mencari data di tiga sistem berbeda, bukan untuk mengambil keputusan. Atau tim HR services yang menjawab pertanyaan cuti dan status onboarding berulang kali, padahal jawabannya sudah ada di knowledge base. Atau IT support yang sibuk mereset password, sementara insiden yang lebih kompleks menunggu lebih lama.
 

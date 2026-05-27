@@ -1,0 +1,19 @@
+{
+  "promptFile": "docs/agentic-enterprise/_prompts/nano-banana-diagrams/10-agentic-ai-value-pool-selection.nano-banana-prompt.md",
+  "imageFile": "static/img/agentic-enterprise/diagrams/10-agentic-ai-value-pool-selection.png",
+  "model": "fal-ai/nano-banana-pro",
+  "aspectRatio": "16:9",
+  "outputFormat": "png",
+  "safetyTolerance": "4",
+  "requestId": "019e65eb-0a44-7a72-bbd8-e8736e9ccadd",
+  "image": {
+    "url": "https://v3b.fal.media/files/b/0a9bccac/IOf6y8Yt4hH_qAA6TOvKo_XUwfoRaG.png",
+    "content_type": "image/png",
+    "file_name": "IOf6y8Yt4hH_qAA6TOvKo_XUwfoRaG.png",
+    "file_size": null,
+    "width": null,
+    "height": null
+  },
+  "resultDescription": "",
+  "generatedAt": "2026-05-26T20:13:17.004Z"
+}

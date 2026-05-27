@@ -3,7 +3,11 @@ title: "Performance Metrics untuk Human-Agent Teams"
 sidebar_position: 30
 ---
 
+import ArticleDiagram from '@site/src/components/ArticleDiagram';
+
 # Performance Metrics untuk Human-Agent Teams
+
+<ArticleDiagram src="/img/agentic-enterprise/diagrams/30-performance-metrics.png" alt="Diagram: Performance Metrics untuk Human-Agent Teams" />
 
 Bayangkan tim finance Anda mulai menggunakan agent untuk membantu proses close bulanan. Agent mengambil data dari ERP, menyusun draft commentary, dan menyiapkan evidence untuk setiap akun. Tim controllership tiba-tiba memiliki lebih banyak waktu. Pertanyaan yang muncul bukan lagi "berapa jam kerja yang dihemat?", tetapi "apakah kualitas close benar-benar membaik?" atau "apakah agent membantu tim menemukan anomaly yang sebelumnya terlewat?"
 

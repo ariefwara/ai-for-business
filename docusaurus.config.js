@@ -74,10 +74,6 @@ const config = {
             {
               to: '/agentic-enterprise/roadmap-90-days',
               label: 'Roadmap'
-            },
-            {
-              to: '/agentic-enterprise/agentic-enterprise-from-zero-playbook',
-              label: 'Playbook'
             }
           ]
         },

@@ -3,7 +3,11 @@ title: "IT Delivery Model dengan AI Software Agents"
 sidebar_position: 28
 ---
 
+import ArticleDiagram from '@site/src/components/ArticleDiagram';
+
 # IT Delivery Model dengan AI Software Agents
+
+<ArticleDiagram src="/img/agentic-enterprise/diagrams/28-it-delivery-model.png" alt="Diagram: IT Delivery Model dengan AI Software Agents" />
 
 Banyak tim teknologi memulai perjalanan AI dari tempat yang paling nyaman: coding assistant. Developer memakai AI untuk menulis boilerplate, membuat unit test, atau merangkum dokumentasi. Hasilnya terasa langsung—pekerjaan individu jadi lebih cepat. Tapi jika kita berhenti di situ, kita hanya menyentuh permukaan.
 

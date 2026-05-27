@@ -3,7 +3,11 @@ title: "Human-AI Teaming di Perusahaan"
 sidebar_position: 22
 ---
 
+import ArticleDiagram from '@site/src/components/ArticleDiagram';
+
 # Human-AI Teaming di Perusahaan
+
+<ArticleDiagram src="/img/agentic-enterprise/diagrams/22-human-ai-teaming.png" alt="Diagram: Human-AI Teaming di Perusahaan" />
 
 Banyak perusahaan memulai perjalanan AI dengan cara yang serupa. Seorang analis keuangan meminta ringkasan variance dari chatbot. Seorang buyer meminta draft email ke vendor. Seorang agen customer service meminta saran respons. Semua keputusan dan tindakan tetap di tangan manusia. AI hanyalah alat yang mempercepat langkah tertentu. Nilainya nyata, tetapi sifatnya masih individual productivity.
 

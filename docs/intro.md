@@ -9,7 +9,7 @@ sidebar_position: 1
 
 Seri ini membahas bagaimana perusahaan bergerak dari AI tools dan copilot menuju **agentic enterprise**: operating model di mana AI agents dapat memahami konteks, mengambil aksi melalui sistem enterprise, bekerja bersama manusia, dan tetap berada dalam kontrol governance yang jelas.
 
-Gunakan halaman ini sebagai index utama. Jika baru mulai, baca dari artikel 1 sampai 12. Jika sedang membangun platform, mulai dari artikel 13 sampai 21. Jika fokus pada perubahan organisasi dan scale, mulai dari artikel 22 sampai 40.
+Gunakan halaman ini sebagai index utama. Jika baru mulai, baca dari artikel 1 sampai 12. Jika sedang membangun platform, mulai dari artikel 13 sampai 21. Jika fokus pada perubahan organisasi, mulai dari artikel 22 sampai 33.
 
 ## Start here
 
@@ -19,7 +19,6 @@ Gunakan halaman ini sebagai index utama. Jika baru mulai, baca dari artikel 1 sa
 | Architecture | CIO, CTO, enterprise architect, platform team | [Identity dan Access Control](./agentic-enterprise/identity-access-control) |
 | Operating Model | COO, shared services leader, HR, GCC leader | [Human-AI Teaming](./agentic-enterprise/human-ai-teaming) |
 | Roadmap | Program owner yang ingin mulai pilot | [Roadmap 90 Hari](./agentic-enterprise/roadmap-90-days) |
-| Playbook | Tim yang ingin mulai dari nol | [Playbook Memulai Agentic Enterprise](./agentic-enterprise/agentic-enterprise-from-zero-playbook) |
 
 ## 1. Foundations
 

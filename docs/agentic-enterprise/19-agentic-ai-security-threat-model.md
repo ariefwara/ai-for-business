@@ -3,7 +3,11 @@ title: "Security Threat Model untuk Agentic AI"
 sidebar_position: 19
 ---
 
+import ArticleDiagram from '@site/src/components/ArticleDiagram';
+
 # Security Threat Model untuk Agentic AI
+
+<ArticleDiagram src="/img/agentic-enterprise/diagrams/19-agentic-ai-security-threat-model.png" alt="Diagram: Security Threat Model untuk Agentic AI" />
 
 Bayangkan tim procurement baru saja meluncurkan agent yang bisa membaca intake request, mengambil policy pengadaan, memeriksa data vendor, lalu membuat draft purchase request. Semua berjalan lancar di pilot. Tapi kemudian seseorang bertanya: bagaimana jika agent membaca proposal vendor yang menyisipkan instruksi tersembunyi agar sistem menganggap vendor itu sudah approved? Atau bagaimana jika agent customer service membaca email pelanggan yang berisi teks yang memintanya mengabaikan policy refund?
 

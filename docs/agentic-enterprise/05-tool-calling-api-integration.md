@@ -3,7 +3,11 @@ title: "Tool Calling, API, dan Enterprise Integration"
 sidebar_position: 5
 ---
 
+import ArticleDiagram from '@site/src/components/ArticleDiagram';
+
 # Tool Calling, API, dan Enterprise Integration
+
+<ArticleDiagram src="/img/agentic-enterprise/diagrams/05-tool-calling-api-integration.png" alt="Diagram: Tool Calling, API, dan Enterprise Integration" />
 
 Bayangkan tim finance Anda sudah mulai menggunakan AI untuk membantu proses penutupan buku bulanan. Copilot yang ada saat ini cukup pintar menjelaskan mengapa sebuah invoice tertahan. Tapi ketika tim bertanya, "Bisakah AI ini langsung memperbaiki statusnya?", jawabannya belum ada. Data invoice tersebar di ERP, spreadsheet kiriman vendor, dan email konfirmasi. PO perlu dicek, goods receipt perlu dibandingkan, dan jika ada masalah, harus dibuka case di workflow system. Semua langkah itu masih manual.
 

@@ -3,7 +3,11 @@ title: "Roadmap 90 Hari Membangun Agentic Enterprise Pilot"
 sidebar_position: 32
 ---
 
+import ArticleDiagram from '@site/src/components/ArticleDiagram';
+
 # Roadmap 90 Hari Membangun Agentic Enterprise Pilot
+
+<ArticleDiagram src="/img/agentic-enterprise/diagrams/32-roadmap-90-days.png" alt="Diagram: Roadmap 90 Hari Membangun Agentic Enterprise Pilot" />
 
 Banyak perusahaan sudah melewati fase rasa ingin tahu terhadap AI. Tool sudah dicoba, copilot sudah dipakai, beberapa proof of concept sudah dipresentasikan. Namun pertanyaan yang kini lebih penting bukan lagi *“apakah agentic AI menarik?”* melainkan: bagaimana membangun pilot yang cukup nyata untuk membuktikan nilai, cukup aman untuk dijalankan, dan cukup disiplin untuk menjadi dasar scale?
 

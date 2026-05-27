@@ -3,7 +3,11 @@ title: "Agentic Enterprise: Dari Digital Transformation ke Agentic Transformatio
 sidebar_position: 1
 ---
 
+import ArticleDiagram from '@site/src/components/ArticleDiagram';
+
 # Agentic Enterprise: Dari Digital Transformation ke Agentic Transformation
+
+<ArticleDiagram src="/img/agentic-enterprise/diagrams/01-agentic-transformation.png" alt="Diagram: Agentic Enterprise: Dari Digital Transformation ke Agentic Transformation" />
 
 Banyak perusahaan saat ini merasa sudah cukup maju dalam transformasi digital. Proses-proses utama sudah berjalan di atas ERP, approval dilakukan lewat workflow digital, dashboard menampilkan data real-time, dan sebagian besar karyawan sudah menggunakan copilot atau chatbot untuk menulis, meringkas, atau mencari insight. Namun jika kita melihat lebih dalam ke organisasi besar, ada sesuatu yang belum benar-benar berubah. Pekerjaan masih bergerak dari satu inbox ke inbox lain, dari satu tim ke tim lain, dari satu aplikasi ke aplikasi lain. Bottleneck tetap ada, hanya tampilannya yang lebih modern.
 

@@ -1,0 +1,19 @@
+{
+  "promptFile": "docs/agentic-enterprise/_prompts/nano-banana-diagrams/25-gcc-4-ai-agents.nano-banana-prompt.md",
+  "imageFile": "static/img/agentic-enterprise/diagrams/25-gcc-4-ai-agents.png",
+  "model": "fal-ai/nano-banana-pro",
+  "aspectRatio": "16:9",
+  "outputFormat": "png",
+  "safetyTolerance": "4",
+  "requestId": "019e65ec-fe30-7693-a47a-e5075696428c",
+  "image": {
+    "url": "https://v3b.fal.media/files/b/0a9bccb9/UsCEbVhRg2Xhp5ih6_K-J_LJPYz26s.png",
+    "content_type": "image/png",
+    "file_name": "UsCEbVhRg2Xhp5ih6_K-J_LJPYz26s.png",
+    "file_size": null,
+    "width": null,
+    "height": null
+  },
+  "resultDescription": "",
+  "generatedAt": "2026-05-26T20:15:26.161Z"
+}

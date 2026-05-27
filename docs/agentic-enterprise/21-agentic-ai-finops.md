@@ -3,7 +3,11 @@ title: "Agentic AI FinOps: Mengelola Cost, Latency, dan Capacity"
 sidebar_position: 21
 ---
 
+import ArticleDiagram from '@site/src/components/ArticleDiagram';
+
 # Agentic AI FinOps: Mengelola Cost, Latency, dan Capacity
+
+<ArticleDiagram src="/img/agentic-enterprise/diagrams/21-agentic-ai-finops.png" alt="Diagram: Agentic AI FinOps: Mengelola Cost, Latency, dan Capacity" />
 
 Seorang manajer shared services melihat pilot agent untuk AP exception handling berjalan mulus. Biaya per transaksi di dashboard terlihat kecil, latency masih wajar, dan tim senang karena beban kerja berkurang. Enam bulan kemudian, saat volume naik sepuluh kali lipat, tagihan cloud membengkak, pengguna mulai mengeluh lambat, dan tim IT kebingungan mengejar kapasitas. Apa yang terjadi?
 

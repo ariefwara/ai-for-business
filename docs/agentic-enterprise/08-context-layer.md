@@ -3,7 +3,11 @@ title: "Context Layer: RAG, Knowledge Graph, dan Enterprise Memory"
 sidebar_position: 8
 ---
 
+import ArticleDiagram from '@site/src/components/ArticleDiagram';
+
 # Context Layer: RAG, Knowledge Graph, dan Enterprise Memory
+
+<ArticleDiagram src="/img/agentic-enterprise/diagrams/08-context-layer.png" alt="Diagram: Context Layer: RAG, Knowledge Graph, dan Enterprise Memory" />
 
 Bayangkan tim finance Anda sedang mencoba menggunakan agent untuk membantu proses penutupan buku bulanan. Agent itu bisa mengakses data, tetapi hasilnya aneh: kadang ia mengambil kebijakan akuntansi yang sudah tidak berlaku, kadang ia mencampur data entitas yang berbeda, dan kadang ia lupa bahwa langkah tertentu sudah dilakukan. Tim Anda mulai ragu—apakah agent ini benar-benar bisa membantu, atau malah menambah pekerjaan?
 

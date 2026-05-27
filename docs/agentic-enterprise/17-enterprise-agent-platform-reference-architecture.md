@@ -3,7 +3,11 @@ title: "Reference Architecture untuk Enterprise Agent Platform"
 sidebar_position: 17
 ---
 
+import ArticleDiagram from '@site/src/components/ArticleDiagram';
+
 # Reference Architecture untuk Enterprise Agent Platform
+
+<ArticleDiagram src="/img/agentic-enterprise/diagrams/17-enterprise-agent-platform-reference-architecture.png" alt="Diagram: Reference Architecture untuk Enterprise Agent Platform" />
 
 Bayangkan tim finance Anda berhasil membangun agent untuk membantu proses close bulanan. Hasilnya menjanjikan: waktu rekonsiliasi berkurang, exception lebih cepat terdeteksi, dan tim bisa fokus pada analisis, bukan entry data. Melihat keberhasilan itu, tim procurement mulai membangun agent untuk intake-to-PO. Tim customer service ingin agent untuk complaint resolution. Tim IT operations mulai merancang agent untuk incident triage.
 

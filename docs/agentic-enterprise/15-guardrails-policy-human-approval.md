@@ -3,7 +3,11 @@ title: "Guardrails, Policy Engine, dan Human Approval Workflow"
 sidebar_position: 15
 ---
 
+import ArticleDiagram from '@site/src/components/ArticleDiagram';
+
 # Guardrails, Policy Engine, dan Human Approval Workflow
+
+<ArticleDiagram src="/img/agentic-enterprise/diagrams/15-guardrails-policy-human-approval.png" alt="Diagram: Guardrails, Policy Engine, dan Human Approval Workflow" />
 
 Bayangkan tim finance Anda sudah mulai memakai agent untuk membantu proses closing bulanan. Agent bisa mengidentifikasi exception, mengumpulkan bukti dari berbagai sistem, dan menyiapkan draft komentar. Semua berjalan lancar di pilot. Lalu suatu hari, tanpa sengaja, agent memposting adjustment material yang seharusnya tidak boleh dilakukan tanpa review manajer. Angka laporan keuangan berubah. Tim panik.
 

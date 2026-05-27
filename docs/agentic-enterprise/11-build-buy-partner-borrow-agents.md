@@ -3,7 +3,11 @@ title: "Build, Buy, Partner, atau Borrow: Strategi Sourcing AI Agents"
 sidebar_position: 11
 ---
 
+import ArticleDiagram from '@site/src/components/ArticleDiagram';
+
 # Build, Buy, Partner, atau Borrow: Strategi Sourcing AI Agents
+
+<ArticleDiagram src="/img/agentic-enterprise/diagrams/11-build-buy-partner-borrow-agents.png" alt="Diagram: Build, Buy, Partner, atau Borrow: Strategi Sourcing AI Agents" />
 
 Bayangkan Anda berada di posisi seorang kepala teknologi atau kepala fungsi bisnis. Tim Anda sudah mulai melihat potensi agentic AI. Mungkin ada pilot chatbot di customer service yang cukup menjanjikan, atau tim finance mulai bereksperimen dengan agent untuk membantu proses closing bulanan. Pertanyaan yang segera muncul bukan lagi "apakah kita perlu agent?", melainkan "dari mana kita harus mendapatkan capability agent ini?"
 

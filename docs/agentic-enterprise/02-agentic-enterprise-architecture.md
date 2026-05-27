@@ -3,7 +3,11 @@ title: "Apa Itu Agentic Enterprise Architecture"
 sidebar_position: 2
 ---
 
+import ArticleDiagram from '@site/src/components/ArticleDiagram';
+
 # Apa Itu Agentic Enterprise Architecture
+
+<ArticleDiagram src="/img/agentic-enterprise/diagrams/02-agentic-enterprise-architecture.png" alt="Diagram: Apa Itu Agentic Enterprise Architecture" />
 
 Bayangkan tim finance Anda sedang menjalani proses tutup buku bulanan. Data tersebar di ERP, spreadsheet yang dikirim lewat email, dan catatan manual dari shared service. Butuh waktu berhari-hari untuk merekonsiliasi, mengecek anomali, dan mendapatkan approval. Sekarang bayangkan ada sesuatu yang bisa memantau jadwal tutup buku, mendeteksi entitas yang belum submit rekonsiliasi, menganalisis jurnal yang mencurigakan, mengumpulkan bukti dari berbagai sistem, dan menyiapkan rekomendasi untuk controller—semua dalam hitungan menit, bukan hari.
 

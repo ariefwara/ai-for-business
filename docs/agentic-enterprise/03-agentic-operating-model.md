@@ -3,7 +3,11 @@ title: "Apa Itu Agentic Operating Model"
 sidebar_position: 3
 ---
 
+import ArticleDiagram from '@site/src/components/ArticleDiagram';
+
 # Apa Itu Agentic Operating Model
+
+<ArticleDiagram src="/img/agentic-enterprise/diagrams/03-agentic-operating-model.png" alt="Diagram: Apa Itu Agentic Operating Model" />
 
 Bayangkan sebuah tim finance yang mulai menggunakan agent untuk membantu proses penutupan buku bulanan. Agent bisa mengambil data dari ERP, mencocokkan invoice, menyiapkan draft jurnal, dan menindaklanjuti exception. Di sisi lain, tim customer operations juga punya agent yang merespons pertanyaan pelanggan, mengubah alamat, atau mengecek status pesanan. Sementara itu, tim IT membuat agent untuk diagnosis awal insiden.
 

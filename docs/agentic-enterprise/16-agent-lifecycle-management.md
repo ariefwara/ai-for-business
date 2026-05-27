@@ -3,7 +3,11 @@ title: "Agent Lifecycle Management"
 sidebar_position: 16
 ---
 
+import ArticleDiagram from '@site/src/components/ArticleDiagram';
+
 # Agent Lifecycle Management
+
+<ArticleDiagram src="/img/agentic-enterprise/diagrams/16-agent-lifecycle-management.png" alt="Diagram: Agent Lifecycle Management" />
 
 Bayangkan tim finance Anda baru saja meluncurkan agent untuk membantu proses closing bulanan. Di demo, semuanya berjalan mulus. Agent mengambil data dari ERP, mencocokkan dengan spreadsheet, dan menyiapkan jurnal koreksi. Tiga minggu kemudian, seorang staf menemukan bahwa agent mulai memakai aturan akuntansi yang sudah kadaluarsa karena sumber knowledge-nya tidak pernah diperbarui. Tidak ada yang tahu kapan perubahan itu terjadi. Agent tetap berjalan, tetap terlihat aktif, tetapi perlahan mulai menghasilkan output yang tidak lagi sesuai policy.
 

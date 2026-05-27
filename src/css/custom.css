@@ -40,6 +40,19 @@
   max-width: 880px;
 }
 
+.article-diagram {
+  margin: 1.5rem 0 2rem;
+}
+
+.article-diagram img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  background: #ffffff;
+}
+
 .tocCollapsible_ETCw,
 .theme-doc-toc-mobile {
   display: none;

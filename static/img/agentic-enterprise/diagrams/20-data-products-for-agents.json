@@ -1,0 +1,19 @@
+{
+  "promptFile": "docs/agentic-enterprise/_prompts/nano-banana-diagrams/20-data-products-for-agents.nano-banana-prompt.md",
+  "imageFile": "static/img/agentic-enterprise/diagrams/20-data-products-for-agents.png",
+  "model": "fal-ai/nano-banana-pro",
+  "aspectRatio": "16:9",
+  "outputFormat": "png",
+  "safetyTolerance": "4",
+  "requestId": "019e65ec-23e9-73f2-b4ec-79ddb7bf556c",
+  "image": {
+    "url": "https://v3b.fal.media/files/b/0a9bccb3/zIkVzqMtItUKaywqBdDxQ_DgqQ5M6E.png",
+    "content_type": "image/png",
+    "file_name": "zIkVzqMtItUKaywqBdDxQ_DgqQ5M6E.png",
+    "file_size": null,
+    "width": null,
+    "height": null
+  },
+  "resultDescription": "",
+  "generatedAt": "2026-05-26T20:14:29.462Z"
+}

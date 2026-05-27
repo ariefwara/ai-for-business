@@ -3,7 +3,11 @@ title: "Data Foundation untuk Agentic AI"
 sidebar_position: 7
 ---
 
+import ArticleDiagram from '@site/src/components/ArticleDiagram';
+
 # Data Foundation untuk Agentic AI
+
+<ArticleDiagram src="/img/agentic-enterprise/diagrams/07-data-foundation.png" alt="Diagram: Data Foundation untuk Agentic AI" />
 
 Bayangkan tim finance Anda sudah membangun agent yang bisa membantu proses tutup buku. Agent itu terhubung ke ERP, bisa membaca jurnal, dan bahkan mulai menyusun draft rekonsiliasi. Di demo, semuanya berjalan mulus. Tapi begitu dipakai untuk periode tutup yang sesungguhnya, agent mulai salah membaca status invoice, merekomendasikan akun yang salah, dan mengeskalasi exception yang sebenarnya sudah selesai. Tim finance pun kembali memeriksa semuanya dari awal.
 

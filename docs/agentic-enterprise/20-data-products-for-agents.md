@@ -3,7 +3,11 @@ title: "Data Products untuk AI Agents"
 sidebar_position: 20
 ---
 
+import ArticleDiagram from '@site/src/components/ArticleDiagram';
+
 # Data Products untuk AI Agents
+
+<ArticleDiagram src="/img/agentic-enterprise/diagrams/20-data-products-for-agents.png" alt="Diagram: Data Products untuk AI Agents" />
 
 Banyak tim yang mulai mencoba agentic AI merasa sudah siap karena data tersedia. Ada data lake, warehouse, dashboard BI, atau indeks dokumen yang besar. Untuk laporan dan analisis tradisional, itu cukup. Tapi ketika agent mulai dipakai, masalah muncul. Agent membaca data, lalu mengambil keputusan yang salah. Bukan karena modelnya buruk, tetapi karena data yang dipakai tidak dikemas dengan cara yang bisa dipahami agent secara aman dan konsisten.
 
