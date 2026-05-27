@@ -1,0 +1,19 @@
+{
+  "promptFile": "docs/agentic-enterprise/_prompts/nano-banana-diagrams/30-performance-metrics.nano-banana-prompt.md",
+  "imageFile": "static/img/diagrams/30-performance-metrics.png",
+  "model": "fal-ai/nano-banana-pro",
+  "aspectRatio": "16:9",
+  "outputFormat": "png",
+  "safetyTolerance": "4",
+  "requestId": "019e65ed-a8bc-7263-adcc-e661578611e2",
+  "image": {
+    "url": "https://v3b.fal.media/files/b/0a9bccbd/KC5tVTnxev46IPh8dlFOG_rEO400bJ.png",
+    "content_type": "image/png",
+    "file_name": "KC5tVTnxev46IPh8dlFOG_rEO400bJ.png",
+    "file_size": null,
+    "width": null,
+    "height": null
+  },
+  "resultDescription": "",
+  "generatedAt": "2026-05-26T20:16:09.481Z"
+}

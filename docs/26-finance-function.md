@@ -7,7 +7,7 @@ import ArticleDiagram from '@site/src/components/ArticleDiagram';
 
 # Finance Function di Era Agentic AI
 
-<ArticleDiagram src="/img/agentic-enterprise/diagrams/26-finance-function.png" alt="Diagram: Finance Function di Era Agentic AI" />
+<ArticleDiagram src="/img/diagrams/26-finance-function.png" alt="Diagram: Finance Function di Era Agentic AI" />
 
 Bayangkan tim finance Anda sedang menjalani proses month-end close. Angka-angka sudah ada di ERP, tetapi masih ada entitas yang belum mengirim data, akun-akun dengan variance yang belum dijelaskan, dan email menumpuk untuk mengejar status dari berbagai controller. Ini adalah pemandangan yang akrab di banyak perusahaan. Prosesnya berulang, deadline-nya ketat, kontrolnya formal, dan dampaknya langsung terasa pada kualitas operasi. Selama ini, solusinya adalah automasi parsial: workflow engine, RPA, dashboard, dan sedikit copilot untuk drafting. Itu membantu, tetapi belum mengubah cara kerja finance secara mendasar.
 

@@ -1,0 +1,19 @@
+{
+  "promptFile": "docs/agentic-enterprise/_prompts/nano-banana-diagrams/09-agentic-ai-maturity-model.nano-banana-prompt.md",
+  "imageFile": "static/img/diagrams/09-agentic-ai-maturity-model.png",
+  "model": "fal-ai/nano-banana-pro",
+  "aspectRatio": "16:9",
+  "outputFormat": "png",
+  "safetyTolerance": "4",
+  "requestId": "019e65ea-ebb0-7c71-9092-add37285a8d0",
+  "image": {
+    "url": "https://v3b.fal.media/files/b/0a9bccab/6hYnrUtRvEpXuRYrSnDHR_27CDsIF6.png",
+    "content_type": "image/png",
+    "file_name": "6hYnrUtRvEpXuRYrSnDHR_27CDsIF6.png",
+    "file_size": null,
+    "width": null,
+    "height": null
+  },
+  "resultDescription": "",
+  "generatedAt": "2026-05-26T20:13:10.866Z"
+}

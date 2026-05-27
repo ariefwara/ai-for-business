@@ -1,0 +1,19 @@
+{
+  "promptFile": "docs/agentic-enterprise/_prompts/nano-banana-diagrams/16-agent-lifecycle-management.nano-banana-prompt.md",
+  "imageFile": "static/img/diagrams/16-agent-lifecycle-management.png",
+  "model": "fal-ai/nano-banana-pro",
+  "aspectRatio": "16:9",
+  "outputFormat": "png",
+  "safetyTolerance": "4",
+  "requestId": "019e65eb-a74e-7ea3-b07b-4c271ab56d4f",
+  "image": {
+    "url": "https://v3b.fal.media/files/b/0a9bccb0/yTeyTvKwHLRgpKT_rQ8Ga_tri8TfmA.png",
+    "content_type": "image/png",
+    "file_name": "yTeyTvKwHLRgpKT_rQ8Ga_tri8TfmA.png",
+    "file_size": null,
+    "width": null,
+    "height": null
+  },
+  "resultDescription": "",
+  "generatedAt": "2026-05-26T20:13:51.928Z"
+}

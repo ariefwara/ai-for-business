@@ -1,0 +1,19 @@
+{
+  "promptFile": "docs/agentic-enterprise/_prompts/nano-banana-diagrams/17-enterprise-agent-platform-reference-architecture.nano-banana-prompt.md",
+  "imageFile": "static/img/diagrams/17-enterprise-agent-platform-reference-architecture.png",
+  "model": "fal-ai/nano-banana-pro",
+  "aspectRatio": "16:9",
+  "outputFormat": "png",
+  "safetyTolerance": "4",
+  "requestId": "019e65ec-00b0-7ca0-842d-74fab72f7e37",
+  "image": {
+    "url": "https://v3b.fal.media/files/b/0a9bccb2/g6rhGyNMTDqSBxVLG1yBh_mhDlOECN.png",
+    "content_type": "image/png",
+    "file_name": "g6rhGyNMTDqSBxVLG1yBh_mhDlOECN.png",
+    "file_size": null,
+    "width": null,
+    "height": null
+  },
+  "resultDescription": "",
+  "generatedAt": "2026-05-26T20:14:15.512Z"
+}

@@ -7,7 +7,7 @@ import ArticleDiagram from '@site/src/components/ArticleDiagram';
 
 # Memilih Value Pool Agentic AI yang Layak Dikejar
 
-<ArticleDiagram src="/img/agentic-enterprise/diagrams/10-agentic-ai-value-pool-selection.png" alt="Diagram: Memilih Value Pool Agentic AI yang Layak Dikejar" />
+<ArticleDiagram src="/img/diagrams/10-agentic-ai-value-pool-selection.png" alt="Diagram: Memilih Value Pool Agentic AI yang Layak Dikejar" />
 
 Bayangkan Anda adalah kepala fungsi bisnis. Tim Anda sudah menjalankan beberapa pilot AI. Secara teknis, ada yang berhasil—model menjawab dengan baik, agent bisa mengambil data dari sistem, dan beberapa pengguna awal merasa terbantu. Lalu manajemen bertanya, "berapa nilai bisnisnya? seberapa besar? kapan terlihat?" Jawaban yang Anda miliki masih kabur. Anda tidak sendirian. Banyak perusahaan mengalami hal yang persis sama.
 

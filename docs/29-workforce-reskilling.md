@@ -7,7 +7,7 @@ import ArticleDiagram from '@site/src/components/ArticleDiagram';
 
 # Workforce Reskilling untuk Agentic Enterprise
 
-<ArticleDiagram src="/img/agentic-enterprise/diagrams/29-workforce-reskilling.png" alt="Diagram: Workforce Reskilling untuk Agentic Enterprise" />
+<ArticleDiagram src="/img/diagrams/29-workforce-reskilling.png" alt="Diagram: Workforce Reskilling untuk Agentic Enterprise" />
 
 Bayangkan tim finance Anda baru saja meluncurkan agent yang membantu proses close bulanan. Agent itu bisa menarik data dari ERP, menyusun draft variance commentary, dan menandai anomali. Di minggu pertama, hasilnya terlihat menjanjikan. Tapi minggu kedua, seorang controller menemukan bahwa agent menggunakan data dari periode yang salah. Bukan karena agent rusak, tetapi karena instruksi awal yang diberikan tim tidak cukup spesifik tentang sumber data mana yang harus dipakai.
 

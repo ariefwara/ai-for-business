@@ -1,0 +1,19 @@
+{
+  "promptFile": "docs/agentic-enterprise/_prompts/nano-banana-diagrams/05-tool-calling-api-integration.nano-banana-prompt.md",
+  "imageFile": "static/img/diagrams/05-tool-calling-api-integration.png",
+  "model": "fal-ai/nano-banana-pro",
+  "aspectRatio": "16:9",
+  "outputFormat": "png",
+  "safetyTolerance": "4",
+  "requestId": "019e65ea-01ad-7bb2-8cfd-63a5be412281",
+  "image": {
+    "url": "https://v3b.fal.media/files/b/0a9bcca5/gMhed_577FhpOtBiShW42_LF3bQLnu.png",
+    "content_type": "image/png",
+    "file_name": "gMhed_577FhpOtBiShW42_LF3bQLnu.png",
+    "file_size": null,
+    "width": null,
+    "height": null
+  },
+  "resultDescription": "",
+  "generatedAt": "2026-05-26T20:12:08.400Z"
+}

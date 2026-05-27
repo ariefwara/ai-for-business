@@ -2,7 +2,7 @@ import { mkdir, readFile, readdir, stat, writeFile } from "node:fs/promises";
 import path from "node:path";
 
 const DEFAULT_PROMPT_DIR = "docs/agentic-enterprise/_prompts/nano-banana-diagrams";
-const DEFAULT_OUTPUT_DIR = "static/img/agentic-enterprise/diagrams";
+const DEFAULT_OUTPUT_DIR = "static/img/diagrams";
 const DEFAULT_MODEL = "fal-ai/nano-banana-pro";
 const DEFAULT_CONCURRENCY = 4;
 const DEFAULT_POLL_INTERVAL_MS = 5000;

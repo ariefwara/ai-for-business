@@ -7,7 +7,7 @@ import ArticleDiagram from '@site/src/components/ArticleDiagram';
 
 # Outcome-Based Operating Model
 
-<ArticleDiagram src="/img/agentic-enterprise/diagrams/31-outcome-based-operating-model.png" alt="Diagram: Outcome-Based Operating Model" />
+<ArticleDiagram src="/img/diagrams/31-outcome-based-operating-model.png" alt="Diagram: Outcome-Based Operating Model" />
 
 Bayangkan Anda memimpin tim shared services finance. Selama bertahun-tahun, tim Anda diukur dari jumlah invoice yang diproses per analis, waktu rata-rata menangani tiket, dan seberapa penuh jadwal anggota tim. Semua metrik itu masuk akal selama hampir semua pekerjaan dilakukan oleh manusia.
 

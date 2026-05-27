@@ -7,7 +7,7 @@ import ArticleDiagram from '@site/src/components/ArticleDiagram';
 
 # Identity dan Access Control untuk AI Agents
 
-<ArticleDiagram src="/img/agentic-enterprise/diagrams/13-identity-access-control.png" alt="Diagram: Identity dan Access Control untuk AI Agents" />
+<ArticleDiagram src="/img/diagrams/13-identity-access-control.png" alt="Diagram: Identity dan Access Control untuk AI Agents" />
 
 Bayangkan tim finance Anda sedang menyiapkan agent untuk membantu proses tutup buku bulanan. Agent ini bisa membaca jurnal terbuka, memeriksa rekonsiliasi, dan menyusun draft komentar untuk item yang belum selesai. Semua berjalan lancar di demo. Tapi ketika agent mulai benar-benar mengirim draft adjustment ke ERP, tiba-tiba muncul pertanyaan yang membuat tim berhenti: siapa sebenarnya yang melakukan tindakan ini? Apakah agent bertindak atas nama controller tertentu? Atau sebagai sistem mandiri? Dan kalau hasilnya salah, siapa yang bertanggung jawab?
 

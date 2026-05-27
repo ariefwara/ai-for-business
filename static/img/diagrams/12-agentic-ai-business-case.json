@@ -1,0 +1,19 @@
+{
+  "promptFile": "docs/agentic-enterprise/_prompts/nano-banana-diagrams/12-agentic-ai-business-case.nano-banana-prompt.md",
+  "imageFile": "static/img/diagrams/12-agentic-ai-business-case.png",
+  "model": "fal-ai/nano-banana-pro",
+  "aspectRatio": "16:9",
+  "outputFormat": "png",
+  "safetyTolerance": "4",
+  "requestId": "019e65eb-2170-7db3-8435-26ff788ba61a",
+  "image": {
+    "url": "https://v3b.fal.media/files/b/0a9bccac/7Oyp2dXDUtfzUoVr-L66c_np8g0fkb.png",
+    "content_type": "image/png",
+    "file_name": "7Oyp2dXDUtfzUoVr-L66c_np8g0fkb.png",
+    "file_size": null,
+    "width": null,
+    "height": null
+  },
+  "resultDescription": "",
+  "generatedAt": "2026-05-26T20:13:23.038Z"
+}

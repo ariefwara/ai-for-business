@@ -7,7 +7,7 @@ import ArticleDiagram from '@site/src/components/ArticleDiagram';
 
 # Evaluation dan Testing untuk AI Agents
 
-<ArticleDiagram src="/img/agentic-enterprise/diagrams/18-agent-evaluation-testing.png" alt="Diagram: Evaluation dan Testing untuk AI Agents" />
+<ArticleDiagram src="/img/diagrams/18-agent-evaluation-testing.png" alt="Diagram: Evaluation dan Testing untuk AI Agents" />
 
 Bayangkan sebuah tim finance sedang menyiapkan agent untuk membantu proses close bulanan. Agent ini dirancang untuk mengumpulkan data dari ERP, mengklasifikasikan exception, dan menyusun draft commentary. Di permukaan, semuanya tampak berjalan baik. Namun, saat tim mulai menguji, mereka menemukan sesuatu yang mengkhawatirkan: agent kadang menggunakan evidence yang tidak relevan, kadang merujuk policy yang sudah usang, dan kadang mengeksekusi tindakan yang seharusnya butuh approval.
 

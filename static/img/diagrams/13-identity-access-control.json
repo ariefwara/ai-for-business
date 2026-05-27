@@ -1,0 +1,19 @@
+{
+  "promptFile": "docs/agentic-enterprise/_prompts/nano-banana-diagrams/13-identity-access-control.nano-banana-prompt.md",
+  "imageFile": "static/img/diagrams/13-identity-access-control.png",
+  "model": "fal-ai/nano-banana-pro",
+  "aspectRatio": "16:9",
+  "outputFormat": "png",
+  "safetyTolerance": "4",
+  "requestId": "019e65eb-77dc-71e2-ad98-403da064713b",
+  "image": {
+    "url": "https://v3b.fal.media/files/b/0a9bccaf/uyUJpofAxIK6R8NJeI8OI_OmEClgJL.png",
+    "content_type": "image/png",
+    "file_name": "uyUJpofAxIK6R8NJeI8OI_OmEClgJL.png",
+    "file_size": null,
+    "width": null,
+    "height": null
+  },
+  "resultDescription": "",
+  "generatedAt": "2026-05-26T20:13:45.914Z"
+}

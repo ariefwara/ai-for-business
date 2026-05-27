@@ -1,0 +1,19 @@
+{
+  "promptFile": "docs/agentic-enterprise/_prompts/nano-banana-diagrams/11-build-buy-partner-borrow-agents.nano-banana-prompt.md",
+  "imageFile": "static/img/diagrams/11-build-buy-partner-borrow-agents.png",
+  "model": "fal-ai/nano-banana-pro",
+  "aspectRatio": "16:9",
+  "outputFormat": "png",
+  "safetyTolerance": "4",
+  "requestId": "019e65eb-19c4-7c01-8316-b412b219d010",
+  "image": {
+    "url": "https://v3b.fal.media/files/b/0a9bccac/VD0YEfyx_vLB1sDA-C4gQ_OKUNZzeD.png",
+    "content_type": "image/png",
+    "file_name": "VD0YEfyx_vLB1sDA-C4gQ_OKUNZzeD.png",
+    "file_size": null,
+    "width": null,
+    "height": null
+  },
+  "resultDescription": "",
+  "generatedAt": "2026-05-26T20:13:21.125Z"
+}

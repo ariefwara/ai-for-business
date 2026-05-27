@@ -1,0 +1,19 @@
+{
+  "promptFile": "docs/agentic-enterprise/_prompts/nano-banana-diagrams/02-agentic-enterprise-architecture.nano-banana-prompt.md",
+  "imageFile": "static/img/diagrams/02-agentic-enterprise-architecture.png",
+  "model": "fal-ai/nano-banana-pro",
+  "aspectRatio": "16:9",
+  "outputFormat": "png",
+  "safetyTolerance": "4",
+  "requestId": "019e65ea-019f-7d22-8bcb-f68ae24ccb63",
+  "image": {
+    "url": "https://v3b.fal.media/files/b/0a9bcca5/TusT_GHMiUJ6Vehn_FIaa_z7kwcisn.png",
+    "content_type": "image/png",
+    "file_name": "TusT_GHMiUJ6Vehn_FIaa_z7kwcisn.png",
+    "file_size": null,
+    "width": null,
+    "height": null
+  },
+  "resultDescription": "",
+  "generatedAt": "2026-05-26T20:12:12.021Z"
+}

@@ -7,7 +7,7 @@ import ArticleDiagram from '@site/src/components/ArticleDiagram';
 
 # Agentic AI Maturity Model untuk Perusahaan
 
-<ArticleDiagram src="/img/agentic-enterprise/diagrams/09-agentic-ai-maturity-model.png" alt="Diagram: Agentic AI Maturity Model untuk Perusahaan" />
+<ArticleDiagram src="/img/diagrams/09-agentic-ai-maturity-model.png" alt="Diagram: Agentic AI Maturity Model untuk Perusahaan" />
 
 Bayangkan rapat eksekutif di mana satu orang berkata, "kita sudah pakai AI agents," sementara yang lain membayangkan chatbot knowledge base, yang lain membayangkan copilot yang membantu menulis email, dan yang lain lagi membayangkan sistem yang benar-benar memanggil tool dan mengeksekusi tindakan di sistem enterprise. Semua menggunakan istilah yang sama, tetapi membicarakan hal yang sangat berbeda. Jika semua hal ini disebut "agentic AI", organisasi akan kesulitan menjawab pertanyaan yang jauh lebih penting: sebenarnya kita ada di level mana, fondasi apa yang sudah ada dan apa yang belum, risiko apa yang mulai muncul, dan target dua belas bulan yang realistis itu seperti apa.
 

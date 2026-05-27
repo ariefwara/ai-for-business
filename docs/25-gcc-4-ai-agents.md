@@ -7,7 +7,7 @@ import ArticleDiagram from '@site/src/components/ArticleDiagram';
 
 # GCC 4.0: Global Capability Center Berbasis AI Agents
 
-<ArticleDiagram src="/img/agentic-enterprise/diagrams/25-gcc-4-ai-agents.png" alt="Diagram: GCC 4.0: Global Capability Center Berbasis AI Agents" />
+<ArticleDiagram src="/img/diagrams/25-gcc-4-ai-agents.png" alt="Diagram: GCC 4.0: Global Capability Center Berbasis AI Agents" />
 
 Bayangkan Anda memimpin sebuah Global Capability Center. Selama bertahun-tahun, tim Anda menjadi andalan untuk memusatkan pekerjaan, menekan biaya, dan menjaga standar delivery. Mandatnya perlahan naik: dari sekadar pusat efisiensi, menjadi shared services yang lebih terintegrasi, lalu center of excellence, dan akhirnya innovation hub yang ikut mendorong transformasi digital. Semua berjalan baik.
 

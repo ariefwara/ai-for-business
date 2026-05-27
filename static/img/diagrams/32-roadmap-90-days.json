@@ -1,0 +1,19 @@
+{
+  "promptFile": "docs/agentic-enterprise/_prompts/nano-banana-diagrams/32-roadmap-90-days.nano-banana-prompt.md",
+  "imageFile": "static/img/diagrams/32-roadmap-90-days.png",
+  "model": "fal-ai/nano-banana-pro",
+  "aspectRatio": "16:9",
+  "outputFormat": "png",
+  "safetyTolerance": "4",
+  "requestId": "019e65ed-b40f-7b92-918e-3ca9c30c7830",
+  "image": {
+    "url": "https://v3b.fal.media/files/b/0a9bccbd/3zfbR_lONRiq1LnrCCsQK_Ges6U9fH.png",
+    "content_type": "image/png",
+    "file_name": "3zfbR_lONRiq1LnrCCsQK_Ges6U9fH.png",
+    "file_size": null,
+    "width": null,
+    "height": null
+  },
+  "resultDescription": "",
+  "generatedAt": "2026-05-26T20:16:12.313Z"
+}

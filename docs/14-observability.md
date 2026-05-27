@@ -7,7 +7,7 @@ import ArticleDiagram from '@site/src/components/ArticleDiagram';
 
 # Observability untuk Agentic Systems
 
-<ArticleDiagram src="/img/agentic-enterprise/diagrams/14-observability.png" alt="Diagram: Observability untuk Agentic Systems" />
+<ArticleDiagram src="/img/diagrams/14-observability.png" alt="Diagram: Observability untuk Agentic Systems" />
 
 Bayangkan sebuah tim finance yang baru saja menempatkan agent untuk membantu proses close bulanan. Agent ini bisa mengambil data dari ERP, membaca spreadsheet yang dikirim via email, dan menyusun draft commentary untuk tiap akun. Di permukaan, semuanya berjalan lancar. Tidak ada error, tidak ada crash, tidak ada API yang timeout. Tapi setelah beberapa siklus, controller mulai menemukan anomali: ada beberapa akun yang commentary-nya menggunakan angka dari versi data yang sudah kadaluarsa. Agent tidak salah memanggil tool, tidak gagal secara teknis, tetapi keputusannya salah secara operasional.
 

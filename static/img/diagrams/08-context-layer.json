@@ -1,0 +1,19 @@
+{
+  "promptFile": "docs/agentic-enterprise/_prompts/nano-banana-diagrams/08-context-layer.nano-banana-prompt.md",
+  "imageFile": "static/img/diagrams/08-context-layer.png",
+  "model": "fal-ai/nano-banana-pro",
+  "aspectRatio": "16:9",
+  "outputFormat": "png",
+  "safetyTolerance": "4",
+  "requestId": "019e65ea-91e7-7be1-8419-55f97ddad918",
+  "image": {
+    "url": "https://v3b.fal.media/files/b/0a9bcca9/cQZg7xm8gJF1goAbbzuBf_p95O8fub.png",
+    "content_type": "image/png",
+    "file_name": "cQZg7xm8gJF1goAbbzuBf_p95O8fub.png",
+    "file_size": null,
+    "width": null,
+    "height": null
+  },
+  "resultDescription": "",
+  "generatedAt": "2026-05-26T20:12:46.797Z"
+}

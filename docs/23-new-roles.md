@@ -7,7 +7,7 @@ import ArticleDiagram from '@site/src/components/ArticleDiagram';
 
 # Peran Baru di Agentic Enterprise
 
-<ArticleDiagram src="/img/agentic-enterprise/diagrams/23-new-roles.png" alt="Diagram: Peran Baru di Agentic Enterprise" />
+<ArticleDiagram src="/img/diagrams/23-new-roles.png" alt="Diagram: Peran Baru di Agentic Enterprise" />
 
 Bayangkan sebuah tim finance yang mulai menggunakan agent untuk membantu proses close bulanan. Agent bisa mengumpulkan data dari ERP, menyusun draft commentary, dan menandai exception. Hasilnya, waktu yang dibutuhkan tim berkurang. Tapi kemudian muncul pertanyaan yang tidak terduga: siapa yang sebenarnya bertanggung jawab kalau agent salah mengklasifikasikan akun? Siapa yang memutuskan prioritas perbaikan agent minggu depan? Siapa yang memastikan agent tidak mengakses data yang seharusnya tidak boleh dilihat?
 

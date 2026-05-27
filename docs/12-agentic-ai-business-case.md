@@ -7,7 +7,7 @@ import ArticleDiagram from '@site/src/components/ArticleDiagram';
 
 # Business Case Agentic AI: Dari Demo ke Investasi yang Bisa Dipertanggungjawabkan
 
-<ArticleDiagram src="/img/agentic-enterprise/diagrams/12-agentic-ai-business-case.png" alt="Diagram: Business Case Agentic AI: Dari Demo ke Investasi yang Bisa Dipertanggungjawabkan" />
+<ArticleDiagram src="/img/diagrams/12-agentic-ai-business-case.png" alt="Diagram: Business Case Agentic AI: Dari Demo ke Investasi yang Bisa Dipertanggungjawabkan" />
 
 Seorang kepala finance operations baru saja menyelesaikan demo agentic AI. Di layar, agent mampu mencari invoice yang tertunda, mencocokkan dengan purchase order, dan menyiapkan rekomendasi pembayaran dalam hitungan detik. Timnya terkesan. Sponsor bisnis mulai bertanya kapan bisa production. Tapi ketika CFO, CIO, dan risk management duduk bersama, pertanyaan yang muncul bukan tentang demo, melainkan tentang biaya penuh, risiko implementasi, dan bukti bahwa nilai yang dijanjikan benar-benar bisa diukur.
 

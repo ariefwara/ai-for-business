@@ -1,0 +1,19 @@
+{
+  "promptFile": "docs/agentic-enterprise/_prompts/nano-banana-diagrams/04-orchestrator-vs-task-agent.nano-banana-prompt.md",
+  "imageFile": "static/img/diagrams/04-orchestrator-vs-task-agent.png",
+  "model": "fal-ai/nano-banana-pro",
+  "aspectRatio": "16:9",
+  "outputFormat": "png",
+  "safetyTolerance": "4",
+  "requestId": "019e65ea-01af-7a43-a25a-0584ea497df1",
+  "image": {
+    "url": "https://v3b.fal.media/files/b/0a9bcca5/gi-ev12ETcSTSTTrgTzGC_vDV5CRDo.png",
+    "content_type": "image/png",
+    "file_name": "gi-ev12ETcSTSTTrgTzGC_vDV5CRDo.png",
+    "file_size": null,
+    "width": null,
+    "height": null
+  },
+  "resultDescription": "",
+  "generatedAt": "2026-05-26T20:12:34.968Z"
+}

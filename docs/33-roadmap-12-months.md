@@ -7,7 +7,7 @@ import ArticleDiagram from '@site/src/components/ArticleDiagram';
 
 # Roadmap 12 Bulan Menuju Agentic Operating Model
 
-<ArticleDiagram src="/img/agentic-enterprise/diagrams/33-roadmap-12-months.png" alt="Diagram: Roadmap 12 Bulan Menuju Agentic Operating Model" />
+<ArticleDiagram src="/img/diagrams/33-roadmap-12-months.png" alt="Diagram: Roadmap 12 Bulan Menuju Agentic Operating Model" />
 
 Bayangkan Anda baru saja menyelesaikan pilot 90 hari. Satu agent berjalan, hasilnya menjanjikan, dan tim mulai bertanya: "Kapan kita scale?" Pertanyaan itu wajar, tetapi sering kali menjebak. Banyak perusahaan mampu membangun satu agent yang terlihat bagus. Jauh lebih sedikit yang mampu mengubah keberhasilan itu menjadi kapabilitas yang bisa diandalkan di seluruh organisasi.
 
