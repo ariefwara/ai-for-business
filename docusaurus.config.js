@@ -17,8 +17,22 @@ const config = {
   },
 
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en']
+    defaultLocale: 'id',
+    locales: ['id', 'en', 'gsw'],
+    localeConfigs: {
+      id: {
+        label: 'Indonesia',
+        htmlLang: 'id-ID'
+      },
+      en: {
+        label: 'English',
+        htmlLang: 'en-US'
+      },
+      gsw: {
+        label: 'Schwiizerdütsch',
+        htmlLang: 'gsw-CH'
+      }
+    }
   },
 
   presets: [
@@ -80,6 +94,10 @@ const config = {
         {
           href: 'https://github.com/ariefwara/ai-for-business',
           label: 'GitHub',
+          position: 'right'
+        },
+        {
+          type: 'localeDropdown',
           position: 'right'
         }
       ]
