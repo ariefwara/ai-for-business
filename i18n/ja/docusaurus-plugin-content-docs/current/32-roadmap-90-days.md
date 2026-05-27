@@ -1,6 +1,8 @@
 ---
 title: "エンタープライズ・エージェンティック・パイロット構築のための90日間ロードマップ"
 sidebar_position: 32
+image: "/img/diagrams/32-roadmap-90-days.png"
+description: "多くの企業は、AIに対する好奇心の段階を既に過ぎています。ツールは試され、Copilotは活用され、いくつかの概念実証（PoC）も発表されました。しかし、今より..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

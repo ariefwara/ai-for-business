@@ -1,6 +1,8 @@
 ---
 title: "Evaluation dan Testing untuk AI Agents"
 sidebar_position: 18
+image: "/img/diagrams/18-agent-evaluation-testing.png"
+description: "Bayangkan sebuah tim finance sedang menyiapkan agent untuk membantu proses close bulanan. Agent ini dirancang untuk mengumpulkan data dari ERP, mengklasifikasikan..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

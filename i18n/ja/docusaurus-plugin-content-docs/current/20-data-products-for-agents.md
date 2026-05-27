@@ -1,6 +1,8 @@
 ---
 title: "AIエージェントのためのデータプロダクト"
 sidebar_position: 20
+image: "/img/diagrams/20-data-products-for-agents.png"
+description: "エージェンティックAIの導入を始める多くのチームは、データが利用可能であるため準備ができていると感じています。データレイク、データウェアハウス、BIダッシュボー..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

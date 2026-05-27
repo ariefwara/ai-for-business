@@ -1,6 +1,8 @@
 ---
 title: "Roadmap 12 Mönet zum Agentic Operating Model"
 sidebar_position: 33
+image: "/img/diagrams/33-roadmap-12-months.png"
+description: "Stell dir vor, du hesch grad en 90-Tägige Pilot abgschlosse. Ein Agent lauft, d Resultat sind vrsprächend, und s Team fangt a froge: \"Wänn chömer skaliere?\" Die..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

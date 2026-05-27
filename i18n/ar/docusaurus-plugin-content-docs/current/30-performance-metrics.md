@@ -1,6 +1,8 @@
 ---
 title: "مقاييس الأداء لفرق العمل البشري-الوكيل"
 sidebar_position: 30
+image: "/img/diagrams/30-performance-metrics.png"
+description: "تخيل أن فريقك المالي بدأ باستخدام وكيل (agent) للمساعدة في عملية الإغلاق الشهري. الوكيل يجلب البيانات من نظام ERP، ويُعد مسودة التعليقات، ويُحضّر الأدلة لكل حساب...."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

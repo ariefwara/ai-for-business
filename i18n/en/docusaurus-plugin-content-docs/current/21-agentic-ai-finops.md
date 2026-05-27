@@ -1,6 +1,8 @@
 ---
 title: "Agentic AI FinOps: Managing Cost, Latency, and Capacity"
 sidebar_position: 21
+image: "/img/diagrams/21-agentic-ai-finops.png"
+description: "A shared services manager watches a pilot agent for AP exception handling run smoothly. The cost per transaction on the dashboard looks small, latency is..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

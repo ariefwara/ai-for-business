@@ -1,6 +1,8 @@
 ---
 title: "Roadmap 12 Bulan Menuju Agentic Operating Model"
 sidebar_position: 33
+image: "/img/diagrams/33-roadmap-12-months.png"
+description: "Bayangkan Anda baru saja menyelesaikan pilot 90 hari. Satu agent berjalan, hasilnya menjanjikan, dan tim mulai bertanya: \"Kapan kita scale?\" Pertanyaan itu wajar,..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

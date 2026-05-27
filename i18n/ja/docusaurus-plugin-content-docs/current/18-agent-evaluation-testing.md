@@ -1,6 +1,8 @@
 ---
 title: "AIエージェントの評価とテスト"
 sidebar_position: 18
+image: "/img/diagrams/18-agent-evaluation-testing.png"
+description: "ある金融チームが、月次決算プロセスを支援するエージェントを準備していると想像してみてほしい。このエージェントは、ERPからデータを収集し、例外事項を分類し、ドラ..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

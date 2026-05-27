@@ -1,6 +1,8 @@
 ---
 title: "ガードレール、ポリシーエンジン、および人間による承認ワークフロー"
 sidebar_position: 15
+image: "/img/diagrams/15-guardrails-policy-human-approval.png"
+description: "貴社の財務チームが、月次決算プロセスを支援するためにエージェントの活用を開始したと想像してください。エージェントは例外を特定し、複数のシステムから証拠を収集し、..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

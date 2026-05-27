@@ -1,6 +1,8 @@
 ---
 title: "AIエージェントをERP、CRM、HRIS、基幹システムへ接続する"
 sidebar_position: 6
+image: "/img/diagrams/06-agents-erp-crm-core-systems.png"
+description: "財務チームが月次決算のプロセスを支援するためにエージェントを使い始めたと想像してみてください。そのエージェントは、請求書を読み取り、発注書と照合し、不一致を検出..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

@@ -1,6 +1,8 @@
 ---
 title: "Value Pool für Agentic AI uswähle, wo sich dr Ufwand lohnt"
 sidebar_position: 10
+image: "/img/diagrams/10-agentic-ai-value-pool-selection.png"
+description: "Stell dir vor, du bisch d'Chefin vo nere Business-Funktion. Dini Team het scho es paar Pilotprojekt mit AI am Laufen. Technisch gseh het's zum Teil funktioniert –..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

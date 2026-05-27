@@ -1,6 +1,8 @@
 ---
 title: "エージェンティックエンタープライズのための人材リスキリング"
 sidebar_position: 29
+image: "/img/diagrams/29-workforce-reskilling.png"
+description: "皆さんの会社の財務チームが、月次決算プロセスを支援するエージェントを導入したと想像してみてください。そのエージェントは、ERPからデータを取得し、差異分析コメン..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

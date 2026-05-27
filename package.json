@@ -14,7 +14,9 @@
     "article:rewrite:deepseek": "node scripts/rewrite-articles-with-deepseek.mjs",
     "diagram:prompts:deepseek": "node scripts/generate-nano-banana-diagram-prompts-with-deepseek.mjs",
     "diagram:images:fal": "node scripts/generate-nano-banana-images-with-fal.mjs",
-    "translate:docs:deepseek": "node scripts/translate-docs-with-deepseek.mjs"
+    "translate:docs:deepseek": "node scripts/translate-docs-with-deepseek.mjs",
+    "seo:docs:deepseek": "node scripts/optimize-doc-seo-with-deepseek.mjs",
+    "preview:links": "node scripts/prepare-link-previews.mjs"
   },
   "dependencies": {
     "@docusaurus/core": "3.10.1",

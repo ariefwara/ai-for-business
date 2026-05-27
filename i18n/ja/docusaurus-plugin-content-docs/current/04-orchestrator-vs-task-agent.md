@@ -1,6 +1,8 @@
 ---
 title: "オーケストレーターエージェント vs タスクエージェント"
 sidebar_position: 4
+image: "/img/diagrams/04-orchestrator-vs-task-agent.png"
+description: "皆さんの会社の財務チームが、月末の帳簿締めを行おうとしていると想像してください。データはERP、スプレッドシート、メールに散在しています。分析すべき仕訳の異常、..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

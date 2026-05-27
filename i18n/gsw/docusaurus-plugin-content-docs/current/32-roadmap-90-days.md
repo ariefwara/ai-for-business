@@ -1,6 +1,8 @@
 ---
 title: "Roadmap 90 Täg zum Ufbau vom Agentic Enterprise Pilot"
 sidebar_position: 32
+image: "/img/diagrams/32-roadmap-90-days.png"
+description: "Vilii Firmene sind scho über d Neugierphase zu AI drüber. Tool sind usprobiert, Copilot sind im Iisatz, und es paar Proof of Concept sind scho präsentiert worde...."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

@@ -1,6 +1,8 @@
 ---
 title: "Agentic Enterprise: From Digital Transformation to Agentic Transformation"
 sidebar_position: 1
+image: "/img/diagrams/01-agentic-transformation.png"
+description: "Many companies today feel they have made significant progress in digital transformation. Core processes run on ERP systems, approvals happen through digital..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

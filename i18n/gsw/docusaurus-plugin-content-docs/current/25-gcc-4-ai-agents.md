@@ -1,6 +1,8 @@
 ---
 title: "GCC 4.0: Global Capability Center uf Basis vo AI Agents"
 sidebar_position: 25
+image: "/img/diagrams/25-gcc-4-ai-agents.png"
+description: "Stelled euch vor, ihr füehret es Global Capability Center. Sit Jahre isch öie Team de Ruggehalt fürs Zentralisiere vo Arbet, zum Chöste drucke und d..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

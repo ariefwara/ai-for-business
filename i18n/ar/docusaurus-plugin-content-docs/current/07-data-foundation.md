@@ -1,6 +1,8 @@
 ---
 title: "البنية الأساسية للبيانات للذكاء الاصطناعي العاملي (Agentic AI)"
 sidebar_position: 7
+image: "/img/diagrams/07-data-foundation.png"
+description: "تخيل أن فريق المالية لديك قام بالفعل ببناء وكيل (agent) يمكنه المساعدة في عملية إقفال الحسابات. هذا الوكيل متصل بنظام تخطيط موارد المؤسسة (ERP)، ويمكنه قراءة قيود..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

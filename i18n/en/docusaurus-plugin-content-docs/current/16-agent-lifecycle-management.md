@@ -1,6 +1,8 @@
 ---
 title: "Agent Lifecycle Management"
 sidebar_position: 16
+image: "/img/diagrams/16-agent-lifecycle-management.png"
+description: "Imagine your finance team has just launched an agent to help with the monthly closing process. In the demo, everything runs smoothly. The agent pulls data from the..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

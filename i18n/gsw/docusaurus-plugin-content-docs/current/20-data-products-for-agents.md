@@ -1,6 +1,8 @@
 ---
 title: "Data Products für AI Agents"
 sidebar_position: 20
+image: "/img/diagrams/20-data-products-for-agents.png"
+description: "Vili Team, wo mit agentic AI aafönd, gönd devo us, si sige parat, wil d Date scho vorhande sind. Es het en Data Lake, es Warehouse, es BI-Dashboard oder en grosse..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

@@ -1,6 +1,8 @@
 ---
 title: "Agentic Enterprise: Vo Digital Transformation zur Agentic Transformation"
 sidebar_position: 1
+image: "/img/diagrams/01-agentic-transformation.png"
+description: "Vili Firmene gönd hüt devo us, si sige scho wit in de digitale Transformation. Di wichtigschte Prozäss laufe über ERP, Approvalls wärded über digital Workflow..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

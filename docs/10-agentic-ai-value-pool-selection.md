@@ -1,6 +1,8 @@
 ---
 title: "Memilih Value Pool Agentic AI yang Layak Dikejar"
 sidebar_position: 10
+image: "/img/diagrams/10-agentic-ai-value-pool-selection.png"
+description: "Bayangkan Anda adalah kepala fungsi bisnis. Tim Anda sudah menjalankan beberapa pilot AI. Secara teknis, ada yang berhasil—model menjawab dengan baik, agent bisa..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

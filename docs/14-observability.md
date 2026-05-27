@@ -1,6 +1,8 @@
 ---
 title: "Observability untuk Agentic Systems"
 sidebar_position: 14
+image: "/img/diagrams/14-observability.png"
+description: "Bayangkan sebuah tim finance yang baru saja menempatkan agent untuk membantu proses close bulanan. Agent ini bisa mengambil data dari ERP, membaca spreadsheet yang..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

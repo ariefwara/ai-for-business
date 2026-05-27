@@ -1,6 +1,8 @@
 ---
 title: "Data Products for AI Agents"
 sidebar_position: 20
+image: "/img/diagrams/20-data-products-for-agents.png"
+description: "Many teams venturing into agentic AI assume they are ready because the data is available. They have a data lake, a warehouse, BI dashboards, or a large document..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

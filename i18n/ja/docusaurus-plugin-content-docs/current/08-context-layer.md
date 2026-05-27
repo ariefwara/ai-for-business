@@ -1,6 +1,8 @@
 ---
 title: "コンテキストレイヤー：RAG、ナレッジグラフ、エンタープライズメモリ"
 sidebar_position: 8
+image: "/img/diagrams/08-context-layer.png"
+description: "皆さんの財務チームが、月次決算のプロセスを支援するエージェントの導入を検討していると想像してください。そのエージェントはデータにアクセスできるものの、結果は不安..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

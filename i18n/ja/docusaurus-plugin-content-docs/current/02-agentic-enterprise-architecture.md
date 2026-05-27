@@ -1,6 +1,8 @@
 ---
 title: "エージェンティックエンタープライズアーキテクチャとは"
 sidebar_position: 2
+image: "/img/diagrams/02-agentic-enterprise-architecture.png"
+description: "あなたの会社の経理部門が、月次決算プロセスを実行しているところを想像してみてください。データはERP、メールで送られてくるスプレッドシート、そしてシェアードサー..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

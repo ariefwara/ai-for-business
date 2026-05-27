@@ -1,6 +1,8 @@
 ---
 title: "Build, Buy, Partner, atau Borrow： AIエージェントのソーシング戦略"
 sidebar_position: 11
+image: "/img/diagrams/11-build-buy-partner-borrow-agents.png"
+description: "あなたが最高技術責任者、またはビジネス機能の責任者である立場を想像してみてください。あなたのチームは、すでにエージェンティックAIの可能性に気づき始めています。..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

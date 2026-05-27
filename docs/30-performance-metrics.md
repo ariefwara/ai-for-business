@@ -1,6 +1,8 @@
 ---
 title: "Performance Metrics untuk Human-Agent Teams"
 sidebar_position: 30
+image: "/img/diagrams/30-performance-metrics.png"
+description: "Bayangkan tim finance Anda mulai menggunakan agent untuk membantu proses close bulanan. Agent mengambil data dari ERP, menyusun draft commentary, dan menyiapkan..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

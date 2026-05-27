@@ -1,6 +1,8 @@
 ---
 title: "Identity und Access Control für AI Agents"
 sidebar_position: 13
+image: "/img/diagrams/13-identity-access-control.png"
+description: "Stell dir vor, es Finance-Team bereitet en Agent vor, wo bim monatliche Bücherabschluss hälft. Dä Agent cha offeni Journäl läse, Reconciliation prüefe und..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

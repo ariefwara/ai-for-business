@@ -1,6 +1,8 @@
 ---
 title: "ヒューマン・エージェント・チームのためのパフォーマンス指標"
 sidebar_position: 30
+image: "/img/diagrams/30-performance-metrics.png"
+description: "貴社の財務チームが、月次決算プロセスを支援するエージェントの導入を開始したと想像してください。エージェントはERPからデータを取得し、ドラフトコメンタリーを作成..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

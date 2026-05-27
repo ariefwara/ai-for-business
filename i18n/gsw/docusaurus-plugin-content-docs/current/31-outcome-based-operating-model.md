@@ -1,6 +1,8 @@
 ---
 title: "Outcome-basierts Betriibsmodell"
 sidebar_position: 31
+image: "/img/diagrams/31-outcome-based-operating-model.png"
+description: "Stell dir vor, du füehrsch es Shared-Services-Finance-Team. Sit Jahre wird dis Team dermit gmässe, wie viel Rächnige pro Analyst verarbeitet werde, wie lang..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

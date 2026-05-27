@@ -1,6 +1,8 @@
 ---
 title: "Evaluation and Testing for AI Agents"
 sidebar_position: 18
+image: "/img/diagrams/18-agent-evaluation-testing.png"
+description: "Imagine a finance team preparing an agent to assist with the month-end close process. This agent is designed to gather data from the ERP, classify exceptions, and..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

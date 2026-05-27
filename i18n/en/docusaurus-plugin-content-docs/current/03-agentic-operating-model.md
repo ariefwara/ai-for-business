@@ -1,6 +1,8 @@
 ---
 title: "What Is an Agentic Operating Model"
 sidebar_position: 3
+image: "/img/diagrams/03-agentic-operating-model.png"
+description: "Imagine a finance team starting to use agents to help with the monthly book close process. An agent can pull data from the ERP, match invoices, prepare draft..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

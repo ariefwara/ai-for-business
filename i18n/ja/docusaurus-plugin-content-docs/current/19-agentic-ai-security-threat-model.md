@@ -1,6 +1,8 @@
 ---
 title: "Agentic AI のセキュリティ脅威モデル"
 sidebar_position: 19
+image: "/img/diagrams/19-agentic-ai-security-threat-model.png"
+description: "調達部門が、インテークリクエストを読み込み、調達ポリシーを取得し、ベンダーデータを確認し、購買依頼書のドラフトを作成するエージェントを立ち上げたと想像してみてほ..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

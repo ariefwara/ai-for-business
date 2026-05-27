@@ -1,6 +1,8 @@
 ---
 title: "Context Layer: RAG, Knowledge Graph, and Enterprise Memory"
 sidebar_position: 8
+image: "/img/diagrams/08-context-layer.png"
+description: "Imagine your finance team is trying to use an agent to help with the monthly book close process. The agent can access data, but the results are odd: sometimes it..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

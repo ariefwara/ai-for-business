@@ -1,6 +1,8 @@
 ---
 title: "エージェンティック・オペレーティングモデルとは"
 sidebar_position: 3
+image: "/img/diagrams/03-agentic-operating-model.png"
+description: "ある財務チームが、月次決算のプロセスを支援するためにエージェントの導入を始めたと想像してみてほしい。エージェントはERPからデータを取得し、請求書の照合を行い、..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

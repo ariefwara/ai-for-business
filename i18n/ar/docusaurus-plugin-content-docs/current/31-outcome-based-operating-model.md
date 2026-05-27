@@ -1,6 +1,8 @@
 ---
 title: "نموذج التشغيل القائم على النتائج"
 sidebar_position: 31
+image: "/img/diagrams/31-outcome-based-operating-model.png"
+description: "تخيل أنك تقود فريقاً للخدمات المالية المشتركة. لسنوات، كان فريقك يُقيّم بناءً على عدد الفواتير التي يعالجها كل محلل، ومتوسط الوقت المستغرق في معالجة التذاكر، ومدى..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

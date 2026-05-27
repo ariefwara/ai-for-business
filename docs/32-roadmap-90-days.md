@@ -1,6 +1,8 @@
 ---
 title: "Roadmap 90 Hari Membangun Agentic Enterprise Pilot"
 sidebar_position: 32
+image: "/img/diagrams/32-roadmap-90-days.png"
+description: "Banyak perusahaan sudah melewati fase rasa ingin tahu terhadap AI. Tool sudah dicoba, copilot sudah dipakai, beberapa proof of concept sudah dipresentasikan. Namun..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

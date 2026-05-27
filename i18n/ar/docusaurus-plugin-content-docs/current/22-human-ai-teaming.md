@@ -1,6 +1,8 @@
 ---
 title: "العمل الجماعي بين الإنسان والذكاء الاصطناعي في المؤسسات"
 sidebar_position: 22
+image: "/img/diagrams/22-human-ai-teaming.png"
+description: "تبدأ العديد من المؤسسات رحلتها مع الذكاء الاصطناعي بطريقة متشابهة. يطلب محلل مالي ملخصًا للفروقات من chatbot. ويطلب مسؤول مشتريات مسودة بريد إلكتروني إلى أحد..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

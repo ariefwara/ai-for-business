@@ -1,6 +1,8 @@
 ---
 title: "Guardrails, Policy Engine, und Human Approval Workflow"
 sidebar_position: 15
+image: "/img/diagrams/15-guardrails-policy-human-approval.png"
+description: "Stell der vor, dini Finance-Abteilig händ agfange, en Agent für de monatlech Abschluss z‘bruuche. De Agent chan Exception identifiziere, Bewiis us verschidene..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

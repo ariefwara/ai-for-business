@@ -1,6 +1,8 @@
 ---
 title: "Orchestrator Agent vs Task Agent"
 sidebar_position: 4
+image: "/img/diagrams/04-orchestrator-vs-task-agent.png"
+description: "Stell dir vor, dis Finance-Team versuecht, de Monetsabschluss z'mache. D Date sind über ERP, Spreadsheets und E-Mails verteilt. Es git Journal-Anomalie, wo müend..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

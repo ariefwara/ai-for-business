@@ -1,6 +1,8 @@
 ---
 title: "Outcome-Based Operating Model"
 sidebar_position: 31
+image: "/img/diagrams/31-outcome-based-operating-model.png"
+description: "Bayangkan Anda memimpin tim shared services finance. Selama bertahun-tahun, tim Anda diukur dari jumlah invoice yang diproses per analis, waktu rata-rata menangani..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

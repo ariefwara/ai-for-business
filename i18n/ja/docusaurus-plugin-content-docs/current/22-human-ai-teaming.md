@@ -1,6 +1,8 @@
 ---
 title: "企業におけるHuman-AI Teaming"
 sidebar_position: 22
+image: "/img/diagrams/22-human-ai-teaming.png"
+description: "多くの企業は、似たような方法でAIへの取り組みを開始します。財務アナリストがチャットボットに差異分析の要約を依頼する。購買担当者がベンダー宛のドラフトメールを作..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

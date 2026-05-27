@@ -1,6 +1,8 @@
 ---
 title: "ツール呼び出し、API、そしてエンタープライズ統合"
 sidebar_position: 5
+image: "/img/diagrams/05-tool-calling-api-integration.png"
+description: "皆さんの財務チームが、月次決算プロセスを支援するためにAIを使い始めたと想像してみてください。現在のCopilotは、なぜ特定の請求書が保留されているかを説明す..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

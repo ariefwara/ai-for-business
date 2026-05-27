@@ -1,6 +1,8 @@
 ---
 title: "المراقبة (Observability) للأنظمة العاملة بالوكلاء (Agentic Systems)"
 sidebar_position: 14
+image: "/img/diagrams/14-observability.png"
+description: "تخيل فريقاً مالياً قام مؤخراً بتوظيف وكيل (Agent) للمساعدة في عملية الإغلاق الشهري. يمكن لهذا الوكيل جلب البيانات من نظام ERP، وقراءة جداول البيانات المرسلة عبر..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

@@ -1,6 +1,8 @@
 ---
 title: "Supply Chain Control Tower with AI Agents"
 sidebar_position: 27
+image: "/img/diagrams/27-supply-chain-control-tower.png"
+description: "Many companies have long invested in their supply chains. Dashboards were built, control towers launched, alerts configured, and data from ERP, WMS, TMS, and..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

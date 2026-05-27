@@ -1,6 +1,8 @@
 ---
 title: "Security Threat Model für Agentic AI"
 sidebar_position: 19
+image: "/img/diagrams/19-agentic-ai-security-threat-model.png"
+description: "Stell der vor, es Team vo de Iikäufer het grad en Agent lanciert, wo Intake-Request cha läse, Iikaufspolicie usezieh, Vendra-Date prüefe und denn en Draft für en..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

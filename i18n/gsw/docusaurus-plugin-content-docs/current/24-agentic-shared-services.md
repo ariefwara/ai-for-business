@@ -1,6 +1,8 @@
 ---
 title: "Shared Services in Agentic Services verwandle"
 sidebar_position: 24
+image: "/img/diagrams/24-agentic-shared-services.png"
+description: "Stell der vor, dis Finance Operations-Team bechunnt jede Tag es Dutzend Invoice-Exceptions. Jede Fall muess ufgmacht, gläse, mit PO und Goods Receipt abgliche und..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

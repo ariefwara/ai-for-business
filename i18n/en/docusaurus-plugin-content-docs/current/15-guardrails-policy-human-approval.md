@@ -1,6 +1,8 @@
 ---
 title: "Guardrails, Policy Engine, and Human Approval Workflow"
 sidebar_position: 15
+image: "/img/diagrams/15-guardrails-policy-human-approval.png"
+description: "Imagine your finance team has started using an agent to assist with the month-end close process. The agent can identify exceptions, gather evidence from various..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

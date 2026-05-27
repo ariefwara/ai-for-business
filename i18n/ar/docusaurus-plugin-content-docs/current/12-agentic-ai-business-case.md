@@ -1,6 +1,8 @@
 ---
 title: "Business Case Agentic AI: من العرض التوضيحي إلى الاستثمار القابل للمساءلة"
 sidebar_position: 12
+image: "/img/diagrams/12-agentic-ai-business-case.png"
+description: "لقد أنهى للتو رئيس عمليات المالية عرضًا توضيحيًا لـ agentic AI. على الشاشة، تمكن الـ agent من البحث عن الفواتير المتأخرة، ومطابقتها مع أوامر الشراء، وإعداد توصيات..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

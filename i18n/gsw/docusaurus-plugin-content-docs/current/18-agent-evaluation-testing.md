@@ -1,6 +1,8 @@
 ---
 title: "Evaluation und Testing für AI Agents"
 sidebar_position: 18
+image: "/img/diagrams/18-agent-evaluation-testing.png"
+description: "Stell dir vor, es Finance-Team bereitet en Agent vor, wo bi de monatleche Close-Prozess hälft. Dä Agent isch defür da, Date us em ERP z hole, Exception z..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

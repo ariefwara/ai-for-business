@@ -1,6 +1,8 @@
 ---
 title: "وكيل المنسق مقابل وكيل المهام"
 sidebar_position: 4
+image: "/img/diagrams/04-orchestrator-vs-task-agent.png"
+description: "تخيل أن فريقك المالي يحاول إغلاق دفاتر نهاية الشهر. البيانات موزعة بين نظام تخطيط موارد المؤسسة (ERP)، وجداول البيانات، والبريد الإلكتروني. هناك حالات شاذة في..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

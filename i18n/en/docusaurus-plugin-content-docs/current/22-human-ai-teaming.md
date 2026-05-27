@@ -1,6 +1,8 @@
 ---
 title: "Human-AI Teaming in the Enterprise"
 sidebar_position: 22
+image: "/img/diagrams/22-human-ai-teaming.png"
+description: "Many companies begin their AI journey in a similar way. A financial analyst asks a chatbot for a variance summary. A buyer requests a draft email to a vendor. A..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

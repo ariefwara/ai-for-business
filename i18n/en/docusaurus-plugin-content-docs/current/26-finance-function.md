@@ -1,6 +1,8 @@
 ---
 title: "Finance Function in the Era of Agentic AI"
 sidebar_position: 26
+image: "/img/diagrams/26-finance-function.png"
+description: "Imagine your finance team is in the middle of the month-end close. The numbers are already in the ERP, but some entities haven't submitted their data, accounts with..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

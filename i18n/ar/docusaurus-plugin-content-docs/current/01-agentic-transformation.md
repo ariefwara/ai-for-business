@@ -1,6 +1,8 @@
 ---
 title: "المؤسسة العاملة بالوكلاء: من التحول الرقمي إلى التحول القائم على الوكلاء"
 sidebar_position: 1
+image: "/img/diagrams/01-agentic-transformation.png"
+description: "تشعر العديد من الشركات اليوم بأنها قد قطعت شوطاً كافياً في رحلة التحول الرقمي. فعملياتها الرئيسية تعمل على أنظمة ERP، والموافقات تتم عبر سير عمل رقمي، ولوحات..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

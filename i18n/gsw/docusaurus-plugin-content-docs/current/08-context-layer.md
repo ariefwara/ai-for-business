@@ -1,6 +1,8 @@
 ---
 title: "Context Layer: RAG, Knowledge Graph, und Enterprise Memory"
 sidebar_position: 8
+image: "/img/diagrams/08-context-layer.png"
+description: "Stell dir vor, dis Finance-Team probiert en Agent z'bruuche, zum bi monatliche Buechabschlöss z'hälfe. De Agent cha uf Date zuegriffe, aber d'Resultat sind komisch:..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

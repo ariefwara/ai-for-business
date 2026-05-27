@@ -1,6 +1,8 @@
 ---
 title: "خارطة طريق 12 شهرًا نحو نموذج التشغيل القائم على الوكلاء"
 sidebar_position: 33
+image: "/img/diagrams/33-roadmap-12-months.png"
+description: "تخيل أنك أنهيت للتو مرحلة تجريبية استمرت 90 يومًا. وكيل واحد يعمل، والنتائج واعدة، ويبدأ الفريق بالتساؤل: \"متى نوسع النطاق؟\" هذا السؤال طبيعي، لكنه غالبًا ما يكون..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

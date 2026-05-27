@@ -1,6 +1,8 @@
 ---
 title: "追求する価値のあるエージェンティックAIの価値プールを選択する"
 sidebar_position: 10
+image: "/img/diagrams/10-agentic-ai-value-pool-selection.png"
+description: "あなたがビジネス機能の責任者だと想像してください。あなたのチームはすでにいくつかのAIパイロットを実行しています。技術的には成功したものもあります。モデルは適切..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

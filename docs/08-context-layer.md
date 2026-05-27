@@ -1,6 +1,8 @@
 ---
 title: "Context Layer: RAG, Knowledge Graph, dan Enterprise Memory"
 sidebar_position: 8
+image: "/img/diagrams/08-context-layer.png"
+description: "Bayangkan tim finance Anda sedang mencoba menggunakan agent untuk membantu proses penutupan buku bulanan. Agent itu bisa mengakses data, tetapi hasilnya aneh:..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

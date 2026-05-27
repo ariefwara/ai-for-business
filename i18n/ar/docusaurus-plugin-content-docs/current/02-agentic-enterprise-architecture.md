@@ -1,6 +1,8 @@
 ---
 title: "ما هي هندسة المؤسسات العاملة بالوكلاء"
 sidebar_position: 2
+image: "/img/diagrams/02-agentic-enterprise-architecture.png"
+description: "تخيل أن فريق المالية لديك يمر بعملية إقفال الحسابات الشهرية. البيانات موزعة بين نظام ERP، وجداول بيانات مرسلة عبر البريد الإلكتروني، وملاحظات يدوية من الخدمات..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

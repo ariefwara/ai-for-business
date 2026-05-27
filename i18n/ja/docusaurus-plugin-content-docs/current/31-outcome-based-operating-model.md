@@ -1,6 +1,8 @@
 ---
 title: "アウトカムベースのオペレーティングモデル"
 sidebar_position: 31
+image: "/img/diagrams/31-outcome-based-operating-model.png"
+description: "あなたがシェアードサービス部門の財務チームを率いていると想像してください。長年にわたり、チームの評価は、アナリスト一人あたりの処理請求書数、チケット平均処理時間、そしてチームメンバーのスケジュール充足率によって行われてきました。これらの指標は、業務のほぼすべてが人間によって行われていた時代には、いずれも妥当なものでした。"
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

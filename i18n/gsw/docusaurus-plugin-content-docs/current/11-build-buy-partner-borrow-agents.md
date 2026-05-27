@@ -1,6 +1,8 @@
 ---
 title: "Build, Buy, Partner, oder Borrow: Sourcing-Strategii für AI Agents"
 sidebar_position: 11
+image: "/img/diagrams/11-build-buy-partner-borrow-agents.png"
+description: "Stell dir vor, du bisch en Chief Technology Officer oder en Head vo ere Business-Funktion. Dini Teams händ scho agfange, s'Potenzial vo agentic AI z'gsee. Vilicht..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

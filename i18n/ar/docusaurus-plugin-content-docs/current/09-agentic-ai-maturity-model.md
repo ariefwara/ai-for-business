@@ -1,6 +1,8 @@
 ---
 title: "نموذج نضج الذكاء الاصطناعي العاملي للمؤسسات"
 sidebar_position: 9
+image: "/img/diagrams/09-agentic-ai-maturity-model.png"
+description: "تخيل اجتماعاً تنفيذياً يقول فيه أحدهم: \"لقد بدأنا بالفعل في استخدام وكلاء الذكاء الاصطناعي\"، بينما يتخيل آخر روبوت محادثة لقاعدة المعرفة، ويتخيل ثالث مساعداً ذكياً..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

@@ -1,6 +1,8 @@
 ---
 title: "Reference Architecture untuk Enterprise Agent Platform"
 sidebar_position: 17
+image: "/img/diagrams/17-enterprise-agent-platform-reference-architecture.png"
+description: "Bayangkan tim finance Anda berhasil membangun agent untuk membantu proses close bulanan. Hasilnya menjanjikan: waktu rekonsiliasi berkurang, exception lebih cepat..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

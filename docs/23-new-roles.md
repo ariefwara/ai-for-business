@@ -1,6 +1,8 @@
 ---
 title: "Peran Baru di Agentic Enterprise"
 sidebar_position: 23
+image: "/img/diagrams/23-new-roles.png"
+description: "Bayangkan sebuah tim finance yang mulai menggunakan agent untuk membantu proses close bulanan. Agent bisa mengumpulkan data dari ERP, menyusun draft commentary, dan..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

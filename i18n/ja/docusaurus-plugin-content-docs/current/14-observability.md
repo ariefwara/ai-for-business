@@ -1,6 +1,8 @@
 ---
 title: "エージェンティックシステムにおけるオブザーバビリティ"
 sidebar_position: 14
+image: "/img/diagrams/14-observability.png"
+description: "ある金融チームが、月次決算プロセスを支援するエージェントを導入したと想像してみてください。このエージェントは、ERPからデータを取得し、メールで送信されたスプレ..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

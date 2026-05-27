@@ -1,6 +1,8 @@
 ---
 title: "AIエージェントのためのアイデンティティとアクセス制御"
 sidebar_position: 13
+image: "/img/diagrams/13-identity-access-control.png"
+description: "あなたの財務チームが、月次決算プロセスを支援するエージェントを準備していると想像してください。このエージェントは、未処理の仕訳を読み込み、照合を確認し、未完了項..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

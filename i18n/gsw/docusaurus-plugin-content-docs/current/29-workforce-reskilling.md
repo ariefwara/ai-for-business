@@ -1,6 +1,8 @@
 ---
 title: "Workforce Reskilling für s Agentic Enterprise"
 sidebar_position: 29
+image: "/img/diagrams/29-workforce-reskilling.png"
+description: "Stell der vor, dis Finance-Team het grad en Agent uf d Bei gstellt, wo bim monatliche Abschluss hilft. Dä Agent cha Date us em ERP zieh, en Entwurf für de Variance..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

@@ -1,6 +1,8 @@
 ---
 title: "Agent Lifecycle Management"
 sidebar_position: 16
+image: "/img/diagrams/16-agent-lifecycle-management.png"
+description: "Stell dir vor, dini Finance-Abteilig het grad en Agent lanciert, wo bim monatleche Abschluss hälfe söll. Im Demo lauft alles perfekt. De Agent holt d Date us em..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

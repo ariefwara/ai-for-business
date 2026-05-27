@@ -1,6 +1,8 @@
 ---
 title: "التقييم والاختبار للوكلاء الذكاء الاصطناعي"
 sidebar_position: 18
+image: "/img/diagrams/18-agent-evaluation-testing.png"
+description: "تخيل فريقًا ماليًا يُعد وكيلاً (agent) للمساعدة في عملية الإغلاق الشهري. صُمم هذا الوكيل لجمع البيانات من نظام ERP، وتصنيف الاستثناءات، وإعداد مسودة التعليقات. في..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

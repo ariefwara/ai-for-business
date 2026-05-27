@@ -1,6 +1,8 @@
 ---
 title: "Reference Architecture for Enterprise Agent Platform"
 sidebar_position: 17
+image: "/img/diagrams/17-enterprise-agent-platform-reference-architecture.png"
+description: "Imagine your finance team has successfully built an agent to assist with the month-end close process. The results are promising: reconciliation time is reduced,..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

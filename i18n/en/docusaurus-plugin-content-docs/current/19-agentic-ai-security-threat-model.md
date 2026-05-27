@@ -1,6 +1,8 @@
 ---
 title: "Security Threat Model for Agentic AI"
 sidebar_position: 19
+image: "/img/diagrams/19-agentic-ai-security-threat-model.png"
+description: "Imagine a procurement team has just launched an agent that can read intake requests, retrieve procurement policies, check vendor data, and draft purchase requests...."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

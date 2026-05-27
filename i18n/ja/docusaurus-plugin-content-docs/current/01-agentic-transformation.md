@@ -1,6 +1,8 @@
 ---
 title: "Agentic Enterprise: デジタルトランスフォーメーションからエージェンティック・トランスフォーメーションへ"
 sidebar_position: 1
+image: "/img/diagrams/01-agentic-transformation.png"
+description: "現在、多くの企業はデジタルトランスフォーメーションにおいて既に十分に進んでいるという自負を持っています。主要なプロセスはERP上で稼働し、承認はデジタルワークフ..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

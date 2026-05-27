@@ -1,6 +1,8 @@
 ---
 title: "ربط وكلاء الذكاء الاصطناعي بأنظمة ERP وCRM وHRIS والأنظمة الأساسية"
 sidebar_position: 6
+image: "/img/diagrams/06-agents-erp-crm-core-systems.png"
+description: "تخيل أن فريق المالية لديك بدأ باستخدام وكيل للمساعدة في عملية إغلاق الحسابات الشهرية. يمكن لهذا الوكيل قراءة الفواتير، ومطابقتها مع أوامر الشراء، واكتشاف أي..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

@@ -1,6 +1,8 @@
 ---
 title: "Menghubungkan AI Agents ke ERP, CRM, HRIS, dan Core Systems"
 sidebar_position: 6
+image: "/img/diagrams/06-agents-erp-crm-core-systems.png"
+description: "Bayangkan tim finance Anda mulai menggunakan agent untuk membantu proses penutupan buku bulanan. Agent itu bisa membaca invoice, mencocokkan dengan purchase order,..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

@@ -1,6 +1,8 @@
 ---
 title: "نموذج تسليم تكنولوجيا المعلومات باستخدام وكلاء البرمجيات الذكاء الاصطناعي"
 sidebar_position: 28
+image: "/img/diagrams/28-it-delivery-model.png"
+description: "تبدأ العديد من فرق التكنولوجيا رحلتها مع الذكاء الاصطناعي من أكثر الأماكن راحة: مساعد البرمجة. يستخدم المطورون الذكاء الاصطناعي لكتابة الكود التمهيدي (boilerplate)،..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';

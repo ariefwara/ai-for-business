@@ -1,6 +1,8 @@
 ---
 title: "Data Foundation untuk Agentic AI"
 sidebar_position: 7
+image: "/img/diagrams/07-data-foundation.png"
+description: "Bayangkan tim finance Anda sudah membangun agent yang bisa membantu proses tutup buku. Agent itu terhubung ke ERP, bisa membaca jurnal, dan bahkan mulai menyusun..."
 ---
 
 import ArticleDiagram from '@site/src/components/ArticleDiagram';
