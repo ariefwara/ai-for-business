@@ -78,7 +78,7 @@ export default function TOC({className}) {
       <button className="share-button" type="button" onClick={shareArticle}>
         {shareStatus || 'Share this article'}
       </button>
-      <span className="share-status" aria-live="polite">
+      <span className="share-status" aria-live="polite" role="status">
         {shareStatus}
       </span>
     </aside>
