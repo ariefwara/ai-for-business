@@ -118,6 +118,19 @@
   border-color: #b8cff5;
 }
 
+.share-button:active {
+  transform: translateY(1px);
+}
+
+.share-status {
+  display: block;
+  min-height: 1.1rem;
+  margin-top: 0.45rem;
+  font-size: 0.78rem;
+  line-height: 1.1rem;
+  color: #4b5563;
+}
+
 .markdown table {
   display: table;
   width: 100%;

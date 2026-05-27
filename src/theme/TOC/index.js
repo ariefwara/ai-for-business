@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useEffect, useState} from 'react';
 import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
@@ -18,14 +18,47 @@ function getShareData() {
 
 export default function TOC({className}) {
   const imageUrl = useBaseUrl('/img/ariefwara.jpeg');
+  const [shareStatus, setShareStatus] = useState('');
+
+  useEffect(() => {
+    if (!shareStatus) return undefined;
+    const timeout = window.setTimeout(() => setShareStatus(''), 2600);
+    return () => window.clearTimeout(timeout);
+  }, [shareStatus]);
 
   async function shareArticle() {
     const data = getShareData();
-    if (navigator.share) {
-      await navigator.share(data);
+
+    try {
+      if (navigator.share) {
+        await navigator.share(data);
+        setShareStatus('Shared');
+        return;
+      }
+
+      await copyToClipboard(data.url);
+      setShareStatus('Link copied');
+    } catch (error) {
+      if (error?.name === 'AbortError') return;
+      setShareStatus('Copy failed');
+    }
+  }
+
+  async function copyToClipboard(text) {
+    if (navigator.clipboard?.writeText) {
+      await navigator.clipboard.writeText(text);
       return;
     }
-    await navigator.clipboard.writeText(data.url);
+
+    const textArea = document.createElement('textarea');
+    textArea.value = text;
+    textArea.setAttribute('readonly', '');
+    textArea.style.position = 'fixed';
+    textArea.style.left = '-9999px';
+    document.body.appendChild(textArea);
+    textArea.select();
+    document.execCommand('copy');
+    document.body.removeChild(textArea);
   }
 
   return (
@@ -43,8 +76,11 @@ export default function TOC({className}) {
         </a>
       </div>
       <button className="share-button" type="button" onClick={shareArticle}>
-        Share this article
+        {shareStatus || 'Share this article'}
       </button>
+      <span className="share-status" aria-live="polite">
+        {shareStatus}
+      </span>
     </aside>
   );
 }
