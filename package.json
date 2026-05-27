@@ -17,7 +17,9 @@
     "translate:docs:deepseek": "node scripts/translate-docs-with-deepseek.mjs",
     "seo:docs:deepseek": "node scripts/optimize-doc-seo-with-deepseek.mjs",
     "preview:links": "node scripts/prepare-link-previews.mjs",
-    "preview:images": "node scripts/generate-social-preview-images.mjs"
+    "preview:images": "node scripts/generate-social-preview-images.mjs",
+    "pinterest:descriptions:deepseek": "node scripts/generate-pinterest-descriptions-with-deepseek.mjs",
+    "pinterest:pin": "node scripts/pin-images-to-pinterest.mjs"
   },
   "dependencies": {
     "@docusaurus/core": "3.10.1",
@@ -28,5 +30,7 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "playwright": "^1.58.0"
+  }
 }
